@@ -8,16 +8,15 @@ title: Home
 <!-- Featured
 ================================================== -->
 <section class="featured-posts">
-    <!---<div class="section-title">
-        <h2><span>Featured</span></h2>
+    <div class="section-title">
+        <h2><span>Site Description</span></h2>
     </div>
-    </div>---->
-    <div class="row">
-
+    <div class="">
+    
     {% for post in site.posts %}
-        {% if post.featured == true %}
-            {% include featuredbox.html %}
-        {% endif %}
+
+        {% include featuredbox.html %}
+
     {% endfor %}
 
     </div>
