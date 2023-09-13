@@ -13,15 +13,7 @@ title: Home
     </div>
     <div class="">
 
-    {% for post in site.posts %}
-
-        {% if post.featured == true %}
-
-            {% include featuredbox.html %}
-
-        {% endif %}
-
-    {% endfor %}
+    {% include featuredbox.html %}
 
     </div>
 </section>
