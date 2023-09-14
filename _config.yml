@@ -1,7 +1,7 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "InfoViz+Lab"
+title: "InfoViz+Lab"
+description: "InfoViz+Lab, InfoViz, Lab"
 logo: 'assets/images/InfoViz+Lab-logo.png'
 favicon: 'assets/images/favicon.png'
 baseurl: /InfoViz-Lab
