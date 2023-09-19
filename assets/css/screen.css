@@ -56,7 +56,7 @@ pre {
 }
 
 section {
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 
 section.recent-posts {
@@ -904,9 +904,7 @@ iframe {
 
 /* plus css*/
 .info_text{margin-bottom: 30px;}
-.card-body.project{
-	padding: 1.25rem 1.25rem 1.25rem 0.25rem;
-}
+.card-body.project{padding: 1.25rem 1.25rem 1.25rem 0.25rem;}
 @media (min-width: 768px){
 	.card-body.project{
 		padding: 1.25rem;
