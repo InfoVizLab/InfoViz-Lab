@@ -11,7 +11,7 @@ mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a
 include: ["_pages"]
 permalink: /:title/
 
-# Authors
+# Projects
 authors:
   sal:
     name: Sal
