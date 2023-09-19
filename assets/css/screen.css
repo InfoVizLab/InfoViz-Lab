@@ -904,11 +904,11 @@ iframe {
 
 /* plus css*/
 .info_text{margin-bottom: 30px;}
-.card-body.projects{
+.card-body.project{
 	padding: 1.25rem 1.25rem 1.25rem 0.25rem;
 }
 @media (min-width: 768px){
-	.card-body.projects{
+	.card-body.project{
 		padding: 1.25rem;
 	}
 }
