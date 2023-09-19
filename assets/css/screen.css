@@ -75,6 +75,7 @@ section.recent-posts {
     display: inline-block;
     padding-bottom: 10px;
     margin-bottom: -1px;
+    color: #5ea7ba;
 }
 
 .article-post ol,
