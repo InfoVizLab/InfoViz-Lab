@@ -232,7 +232,7 @@ span.post-read {
 
 span.post-read-more {
     align-items: center;
-    display: inline-block;
+    /* display: inline-block; */
     float: right;
     margin-top: 8px;
 }
