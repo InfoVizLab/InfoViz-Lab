@@ -809,6 +809,9 @@ iframe {
 .layout-page .jumbotron.fortags {
     display: none;
 }
+.mb-15px {
+    margin-bottom: 15px;
+}
 
 .mb-30px {
     margin-bottom: 30px;
