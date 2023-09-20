@@ -1,7 +1,7 @@
 ---
 layout: page
-title: People
-permalink: /People
+title: Dashboard
+permalink: /Dashboard
 comments: true
 ---
 
