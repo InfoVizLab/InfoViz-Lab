@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dashboard
-permalink: /Dashboard
+permalink: /dashboard
 comments: true
 ---
 
