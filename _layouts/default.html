@@ -98,21 +98,23 @@ ga('send', 'pageview');
 <div class="site-content">
 
 <div class="container">
-    <div class="main-ban">
-        <img src="assets/images/main_ban.jpg">
-    </div>
+    
 <!-- Site Title
 ================================================== -->
-<div class="mainheading">
-    <h1 class="sitetitle">{{ site.name }}</h1>
-    <p class="lead">
-        {{ site.description }}
-    </p>
-</div>
+
 
 <!-- Content
 ================================================== -->
 <div class="main-content">
+    <div class="main-ban">
+        <img src="assets/images/main_ban.jpg">
+    </div>
+    <div class="mainheading">
+        <h1 class="sitetitle">{{ site.name }}</h1>
+        <p class="lead">
+            {{ site.description }}
+        </p>
+    </div>
     {{ content }}
 </div>
 
