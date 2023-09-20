@@ -907,6 +907,7 @@ iframe {
 /* plus css*/
 .info_text{margin-bottom: 30px;}
 .card-body.project{padding: 1.25rem 1.25rem 1.25rem 0.25rem;}
+.index_top{display: none;}
 @media (max-width: 768px){
 	.card-body.project{
 		padding: 1.25rem;
