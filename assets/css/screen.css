@@ -75,7 +75,7 @@ section.recent-posts {
     position: relative;
 }
 
-.section-title h2 {
+.section-title h2 a{
     position: absolute;
     right: 0;
     bottom: 0;
