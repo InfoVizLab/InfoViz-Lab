@@ -47,7 +47,7 @@ comments: true
     <div class="databox data_02">
         <div class="row">
             <div class="col-12 col-md-12 col-lg-3 pr-lg-0">
-                <img class="" src="{{site.baseurl}}/assets/images/data23-01.jpg" alt="" />
+                <img class="" src="{{site.baseurl}}/assets/images/data23-02.jpg" alt="" />
             </div>
             <div class="col-12 col-md-12 col-lg-9">
                 <b>02.Dolphin Story</b>
