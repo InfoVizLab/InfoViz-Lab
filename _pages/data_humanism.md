@@ -7,7 +7,7 @@ comments: true
 
 <div class="mb-30px">
     <h4>2022</h4>
-    <a href="{{ site.baseurl }}{{ post.url }}">link</a>
+    <a href="{{ site.baseurl }}001">link</a>
     <div class="databox data_01">
         <div class="row">
             <div class="col-12 col-md-12 col-lg-3 pr-lg-0">
@@ -20,6 +20,7 @@ comments: true
         </div>
     </div>
     <div class="databox data_02">
+        <a href="{{ site.baseurl }}002">link</a>
         <div class="row">
             <div class="col-12 col-md-12 col-lg-3 pr-lg-0">
                 <img class="" src="{{site.baseurl}}/assets/images/data22-02.jpg" alt="" />
