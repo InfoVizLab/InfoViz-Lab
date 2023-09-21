@@ -72,6 +72,16 @@ section.recent-posts {
     margin-bottom: 25px;
     font-weight: 700;
     font-size: 1.4rem;
+    position: relative;
+}
+
+.section-title h2 {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    font-weight: 300;
+    padding-bottom: 10px;
+    font-size: 1rem;
 }
 
 .section-title span {
