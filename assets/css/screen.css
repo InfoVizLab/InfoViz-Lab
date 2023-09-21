@@ -910,7 +910,7 @@ iframe {
 .card-body.project{padding: 1.25rem 1.25rem 1.25rem 0.25rem;}
 .index_top{display: none;}
 .lead {font-size: 0.95rem;line-height: 1.2rem;}
-.databox{margin-bottom: 20px;}
+.databox {margin-bottom: 20px;}
 .article-post div h4{margin-bottom: 0.5rem;}
 @media (max-width: 768px){
 	.card-body.project{
