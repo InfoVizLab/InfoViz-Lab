@@ -13,7 +13,7 @@ comments: true
             <div class="col-12 col-md-12 col-lg-5 pr-lg-0">
                 <img class="shadow-lg" src="{{site.baseurl}}/assets/images/data01.jpg" alt="" />
             </div>
-            <div class="col-12 col-md-12 col-lg-5">
+            <div class="col-12 col-md-12 col-lg-7">
                 <p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
             </div>
         </div>
