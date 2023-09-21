@@ -915,7 +915,7 @@ iframe {
 .lead {font-size: 0.95rem;line-height: 1.2rem;}
 .databox {margin-bottom: 20px;}
 .databox b{display: block;margin-bottom: 1rem;}
-.layout-page .article-post .databox p{line-height: 1.5rem;}
+.layout-page .article-post .databox p{line-height: 1.5rem;font-weight: 300;font-size: 0.9rem;}
 .article-post div h4{margin-bottom: 0.5rem;}
 @media (max-width: 768px){
 	.card-body.project{
