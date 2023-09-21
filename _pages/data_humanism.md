@@ -5,7 +5,7 @@ permalink: /data_humanism
 comments: true
 ---
 
-<div class="mb-15px">
+<div class="mb-30px">
     <h4>2022</h4>
     <div class="databox data_01">
         <div class="row">
@@ -31,7 +31,7 @@ comments: true
     </div>
 </div>
 
-<div class="mb-15px">
+<div class="mb-30px">
     <h4>2023</h4>
     <div class="databox data_01">
         <div class="row">
