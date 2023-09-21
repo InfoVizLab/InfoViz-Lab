@@ -10,7 +10,7 @@ comments: true
     <div class="databox data_01">
         <div class="row">
             <div class="col-12 col-md-12 col-lg-3 pr-lg-0">
-                <img class="shadow-lg" src="{{site.baseurl}}/assets/images/data01.jpg" alt="" />
+                <img class="" src="{{site.baseurl}}/assets/images/data01.jpg" alt="" />
             </div>
             <div class="col-12 col-md-12 col-lg-9">
                 <b>01.a report on suicide</b>
@@ -21,7 +21,7 @@ comments: true
     <div class="databox data_02">
         <div class="row">
             <div class="col-12 col-md-12 col-lg-3 pr-lg-0">
-                <img class="shadow-lg" src="{{site.baseurl}}/assets/images/data01.jpg" alt="" />
+                <img class="" src="{{site.baseurl}}/assets/images/data01.jpg" alt="" />
             </div>
             <div class="col-12 col-md-12 col-lg-9">
                 <b>02.Dolphin Story</b>

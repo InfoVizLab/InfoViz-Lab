@@ -4,9 +4,10 @@ Copyright: Sal, WowThemes.net, https://www.wowthemes.net
 License: https://www.wowthemes.net/freebies-license/ 
 */
 @media screen and (min-width:1500px) {
-    html { font-size:18px; } /* Increase the font size on higher resolutions */
+    html { font-size:18px;} /* Increase the font size on higher resolutions */
     .container {max-width:80%;}
 }
+html,body,.container{height: 100%;}
 .mainheading {
     /* padding: 1rem 0rem; */
     padding: 15px;
@@ -50,6 +51,7 @@ pre {
 }
 
 .site-content {
+    height: 100%;
     min-height: 60vh;
     /* padding-top: 1.5rem; */
     margin-top: 57px;
