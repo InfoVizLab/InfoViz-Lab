@@ -941,3 +941,6 @@ iframe {
 		padding: 1.25rem;
 	}
 }
+@media (max-width: 576px){
+	.people_box{display: block;}
+}
