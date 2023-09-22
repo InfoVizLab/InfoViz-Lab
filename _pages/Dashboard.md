@@ -6,7 +6,7 @@ comments: true
 ---
 
 <div class="row mb-30px">
-    <div class="col-3 col-md-12 col-lg-3 pr-lg-0 databox data_01">
+    <div class="col-3 col-md-12 col-lg-3 databox data_01">
         <a href="{{ site.baseurl }}/thesis001">
             <div>
                 <img class="" src="{{site.baseurl}}/assets/images/thesis001.jpg" alt="" />
@@ -14,7 +14,7 @@ comments: true
             </div>
         </a>
     </div>
-    <div class="col-3 col-md-12 col-lg-3 pr-lg-0 databox data_02">
+    <div class="col-3 col-md-12 col-lg-3 databox data_02">
         <a href="{{ site.baseurl }}/thesis002">
             <div>
                 <img class="" src="{{site.baseurl}}/assets/images/thesis001.jpg" alt="" />
@@ -22,7 +22,7 @@ comments: true
             </div>
         </a>
     </div>
-    <div class="col-3 col-md-12 col-lg-3 pr-lg-0 databox data_03">
+    <div class="col-3 col-md-12 col-lg-3 databox data_03">
         <a href="{{ site.baseurl }}/thesis003">
             <div>
                 <img class="" src="{{site.baseurl}}/assets/images/thesis001.jpg" alt="" />
@@ -30,7 +30,7 @@ comments: true
             </div>
         </a>
     </div>
-    <div class="col-3 col-md-12 col-lg-3 pr-lg-0 databox data_04">
+    <div class="col-3 col-md-12 col-lg-3 databox data_04">
         <a href="{{ site.baseurl }}/thesis004">
             <div>
                 <img class="" src="{{site.baseurl}}/assets/images/thesis001.jpg" alt="" />
@@ -38,7 +38,7 @@ comments: true
             </div>
         </a>
     </div>
-    <div class="col-3 col-md-12 col-lg-3 pr-lg-0 databox data_05">
+    <div class="col-3 col-md-12 col-lg-3 databox data_05">
         <a href="{{ site.baseurl }}/thesis005">
             <div>
                 <img class="" src="{{site.baseurl}}/assets/images/thesis001.jpg" alt="" />
@@ -46,7 +46,7 @@ comments: true
             </div>
         </a>
     </div>
-    <div class="col-3 col-md-12 col-lg-3 pr-lg-0 databox data_06">
+    <div class="col-3 col-md-12 col-lg-3 databox data_06">
         <a href="{{ site.baseurl }}/thesis006">
             <div class="">
                 <img class="" src="{{site.baseurl}}/assets/images/thesis001.jpg" alt="" />
