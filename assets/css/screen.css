@@ -925,6 +925,7 @@ iframe {
 .lead {font-size: 0.95rem;line-height: 1.2rem;}
 .databox {margin-bottom: 20px;padding: 1rem;border: 1px solid #ddd;border-radius: 0.3rem;}
 .databox b{display: block;margin-bottom: 1rem;}
+.databox a{color:#000;}
 .layout-page .article-post .databox p{line-height: 1.5rem;font-weight: 300;font-size: 0.9rem;}
 .article-post div h4{margin-bottom: 0.5rem;}
 @media (max-width: 768px){
