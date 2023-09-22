@@ -21,7 +21,7 @@ comments: true
         </a>
     </div>
     <div class="databox data_02">
-        <a href="{{ site.baseurl }/002">
+        <a href="{{ site.baseurl }}/002">
             <div class="row">
                 <div class="col-12 col-md-12 col-lg-3 pr-lg-0">
                     <img class="" src="{{site.baseurl}}/assets/images/data22-02.jpg" alt="" />
