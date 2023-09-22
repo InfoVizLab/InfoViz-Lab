@@ -943,5 +943,5 @@ iframe {
 }
 @media (max-width: 576px){
 	.people_box{display: block;}
-    .people_box .people_img{text-align: left;}
+    .people_box .people_img{text-align: center;}
 }
