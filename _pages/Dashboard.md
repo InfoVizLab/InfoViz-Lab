@@ -46,7 +46,7 @@ comments: true
             </a>
         </div>
     </div>
-    <div class="col-12 col-md-4 col-lg-3 p-1">
+    <div class="col-12 col-md-4 col-lg-3 p-2">
         <div class="databox data_06">
             <a href="{{ site.baseurl }}/thesis006">
                 <img class="" src="{{site.baseurl}}/assets/images/thesis001.jpg" alt="" />
