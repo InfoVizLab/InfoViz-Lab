@@ -935,6 +935,7 @@ iframe {
 .people_box{display: grid;grid-column-gap: 10px; margin-bottom: 15px;}
 .people_box .people_img{grid-column:1;}
 .people_box .people_txt{grid-column:2;}
+.people_box .people_txt p{line-height: 1.3rem;font-size: 0.9rem;}
 @media (max-width: 991px){
 	.card-body.project{
 		padding: 1.25rem;
