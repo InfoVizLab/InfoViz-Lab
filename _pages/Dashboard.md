@@ -5,19 +5,77 @@ permalink: /dashboard
 comments: true
 ---
 
-<div class="justify-content-between">
-<div class="">
-
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
-
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
-
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
-
-<h4>Questions or bug reports?</h4>
-
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
-
-</div>
+<div class="mb-30px">
+    <div class="databox data_01">
+        <a href="{{ site.baseurl }}/thesis001">
+            <div class="row">
+                <div class="col-12 col-md-12 col-lg-3 pr-lg-0">
+                    <img class="" src="{{site.baseurl}}/assets/images/thesis001.jpg" alt="" />
+                </div>
+                <div class="col-12 col-md-12 col-lg-9">
+                    <b>01.a village trapped underwater</b>
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="databox data_02">
+        <a href="{{ site.baseurl }}/thesis002">
+            <div class="row">
+                <div class="col-12 col-md-12 col-lg-3 pr-lg-0">
+                    <img class="" src="{{site.baseurl}}/assets/images/thesis001.jpg" alt="" />
+                </div>
+                <div class="col-12 col-md-12 col-lg-9">
+                    <b>02.the joy of trees</b>
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="databox data_03">
+        <a href="{{ site.baseurl }}/thesis003">
+            <div class="row">
+                <div class="col-12 col-md-12 col-lg-3 pr-lg-0">
+                    <img class="" src="{{site.baseurl}}/assets/images/thesis001.jpg" alt="" />
+                </div>
+                <div class="col-12 col-md-12 col-lg-9">
+                    <b>01.a village trapped underwater</b>
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="databox data_04">
+        <a href="{{ site.baseurl }}/thesis004">
+            <div class="row">
+                <div class="col-12 col-md-12 col-lg-3 pr-lg-0">
+                    <img class="" src="{{site.baseurl}}/assets/images/thesis001.jpg" alt="" />
+                </div>
+                <div class="col-12 col-md-12 col-lg-9">
+                    <b>02.the joy of trees</b>
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="databox data_05">
+        <a href="{{ site.baseurl }}/thesis005">
+            <div class="row">
+                <div class="col-12 col-md-12 col-lg-3 pr-lg-0">
+                    <img class="" src="{{site.baseurl}}/assets/images/thesis001.jpg" alt="" />
+                </div>
+                <div class="col-12 col-md-12 col-lg-9">
+                    <b>01.a village trapped underwater</b>
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="databox data_06">
+        <a href="{{ site.baseurl }}/thesis006">
+            <div class="row">
+                <div class="col-12 col-md-12 col-lg-3 pr-lg-0">
+                    <img class="" src="{{site.baseurl}}/assets/images/thesis001.jpg" alt="" />
+                </div>
+                <div class="col-12 col-md-12 col-lg-9">
+                    <b>02.the joy of trees</b>
+                </div>
+            </div>
+        </a>
+    </div>
 </div>
