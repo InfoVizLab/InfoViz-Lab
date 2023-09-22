@@ -932,6 +932,9 @@ iframe {
 .databox a img{width:100%;}
 .layout-page .article-post .databox p{line-height: 1.5rem;font-weight: 300;font-size: 0.9rem;}
 .article-post div h4{margin-bottom: 0.5rem;}
+.people_box{display: grid;grid-column-gap: 10px; margin-bottom: 15px;}
+.people_box .people_img{grid-column:1;}
+.people_box .people_txt{grid-column:2;}
 @media (max-width: 991px){
 	.card-body.project{
 		padding: 1.25rem;
