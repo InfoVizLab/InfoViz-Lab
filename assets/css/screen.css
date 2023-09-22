@@ -929,7 +929,7 @@ iframe {
 .databox a img{width:100%;}
 .layout-page .article-post .databox p{line-height: 1.5rem;font-weight: 300;font-size: 0.9rem;}
 .article-post div h4{margin-bottom: 0.5rem;}
-@media (max-width: 768px){
+@media (max-width: 991px){
 	.card-body.project{
 		padding: 1.25rem;
 	}
