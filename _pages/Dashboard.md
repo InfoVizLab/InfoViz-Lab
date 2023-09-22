@@ -6,7 +6,7 @@ comments: true
 ---
 
 <div class="row mb-30px">
-    <div class="col-3 col-md-4 col-lg-3 databox data_01">
+    <div class="col-3 col-md-4 col-lg-3 m-3 databox data_01">
         <a href="{{ site.baseurl }}/thesis001">
             <div>
                 <img class="" src="{{site.baseurl}}/assets/images/thesis001.jpg" alt="" />
