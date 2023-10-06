@@ -96,20 +96,7 @@ ga('send', 'pageview');
 <!-- End Navigation
 ================================================== -->
 <div class="site-content">
-<div class="index_top">
-    <div class="main-ban">
-        <picture>
-            <source media="(max-width:575px)"srcset="assets/images/main_ban_m.jpg">
-            <img src="assets/images/main_ban.jpg">
-        </picture>
-    </div>
-    <div class="mainheading container" style="display: none;">
-        <!-- <h1 class="sitetitle">{{ site.name }}</h1> -->
-        <p class="lead" style="display: none;">
-            {{ site.description }}
-        </p>
-    </div>
-</div>
+
 <div class="container" style="margin-top: 15px;">
 <!-- Site Title
 ================================================== -->
@@ -123,6 +110,20 @@ ga('send', 'pageview');
 <!-- Content
 ================================================== -->
 <div class="main-content">
+    <div class="index_top">
+        <div class="main-ban mainheading">
+            <picture>
+                <source media="(max-width:575px)"srcset="assets/images/main_ban_m.jpg">
+                <img src="assets/images/main_ban.jpg">
+            </picture>
+        </div>
+        <div class="mainheading container" style="display: none;">
+            <!-- <h1 class="sitetitle">{{ site.name }}</h1> -->
+            <p class="lead" style="display: none;">
+                {{ site.description }}
+            </p>
+        </div>
+    </div>
     {{ content }}
 </div>
 
