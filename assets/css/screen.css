@@ -936,7 +936,8 @@ iframe {
 .people_box .people_img{grid-column:1;}
 .people_box .people_txt{grid-column:2;}
 .people_box .people_txt p{line-height: 1.3rem;font-size: 0.9rem;}
-.main-ban{padding-bottom: 15px;}
+.main-ban{padding-bottom: 15px;text-align: center;}
+.main-ban img{width: 100%;}
 @media (max-width: 991px){
 	.card-body.project{
 		padding: 1.25rem;
