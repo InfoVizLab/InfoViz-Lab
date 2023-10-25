@@ -21,6 +21,7 @@ comments: true
         <div class="col-12 col-md-12 col-lg-3 pr-lg-0 mb-20px people_box">
             <div class="people_img">
                 <img class="" src="{{site.baseurl}}/assets/images/Sangim.png" alt="" />
+                <b>Sangim Lee</b>
             </div>
             <!-- <div class="people_txt">
                 <b>Sangim Lee</b>
@@ -30,6 +31,7 @@ comments: true
         <div class="col-12 col-md-12 col-lg-3 pr-lg-0 mb-20px people_box">
             <div class="people_img">
                 <img class="" src="{{site.baseurl}}/assets/images/Hokyeong.png" alt="" />
+                <b>Hokyeong Lee</b>
             </div>
             <!-- <div class="people_txt">
                 <b>Hokyeon Lee</b>
@@ -39,6 +41,7 @@ comments: true
         <div class="col-12 col-md-12 col-lg-3 pr-lg-0 mb-20px people_box">
             <div class="people_img">
                 <img class="" src="{{site.baseurl}}/assets/images/Jaeseon.png" alt="" />
+                <b>Jaeseon Go</b>
             </div>
             <!-- <div class="people_txt">
                 <b>Jaeseon Go</b>
