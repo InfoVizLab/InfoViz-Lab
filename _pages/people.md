@@ -28,7 +28,7 @@ comments: true
         </div>
         <div class="col-12 col-md-12 col-lg-3 pr-lg-0 mb-20px people_box">
             <div class="people_img">
-                <img class="" src="{{site.baseurl}}/assets/images/hokyeong.png" alt="" />
+                <img class="" src="{{site.baseurl}}/assets/images/Hokyeong.png" alt="" />
             </div>
             <div class="people_txt">
                 <b>Hokyeon Lee</b>
