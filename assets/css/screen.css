@@ -934,6 +934,7 @@ iframe {
 .article-post div h4{margin-bottom: 0.5rem;}
 .people_box{display: grid;grid-column-gap: 10px; margin-bottom: 15px;}
 .people_box .people_img{grid-column:1;text-align: center;}
+.people_box .people_img p{font-size: 0.75rem;font-weight: 500;}
 .people_box .people_txt{grid-column:2;}
 .people_box .people_txt p{line-height: 1.3rem;font-size: 0.9rem;}
 .main-ban{padding-bottom: 45px;text-align: center;}
