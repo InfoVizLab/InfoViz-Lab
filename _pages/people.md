@@ -8,7 +8,7 @@ comments: true
 <div class="justify-content-between">
 <p>Those who participated in the project</p>
     <div class="row">
-        <div class="col-12 col-md-12 col-lg-3 pr-lg-0 mb-20px people_box">
+        <div class="col-12 col-md-6 col-lg-3 pr-lg-0 mb-20px people_box">
             <div class="people_img">
                 <img class="" src="{{site.baseurl}}/assets/images/Minjeong.png" alt="" />
                 <b>Minjeong Kim</b>
@@ -18,7 +18,7 @@ comments: true
                 <p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found.</p>
             </div> -->
         </div>
-        <div class="col-12 col-md-12 col-lg-3 pr-lg-0 mb-20px people_box">
+        <div class="col-12 col-md-6 col-lg-3 pr-lg-0 mb-20px people_box">
             <div class="people_img">
                 <img class="" src="{{site.baseurl}}/assets/images/Sangim.png" alt="" />
                 <b>Sangim Lee</b>
@@ -28,7 +28,7 @@ comments: true
                 <p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found.</p>
             </div> -->
         </div>
-        <div class="col-12 col-md-12 col-lg-3 pr-lg-0 mb-20px people_box">
+        <div class="col-12 col-md-6 col-lg-3 pr-lg-0 mb-20px people_box">
             <div class="people_img">
                 <img class="" src="{{site.baseurl}}/assets/images/Hokyeong.png" alt="" />
                 <b>Hokyeong Lee</b>
@@ -38,7 +38,7 @@ comments: true
                 <p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. </p>
             </div> -->
         </div>
-        <div class="col-12 col-md-12 col-lg-3 pr-lg-0 mb-20px people_box">
+        <div class="col-12 col-md-6 col-lg-3 pr-lg-0 mb-20px people_box">
             <div class="people_img">
                 <img class="" src="{{site.baseurl}}/assets/images/Jaeseon.png" alt="" />
                 <b>Jaeseon Go</b>
