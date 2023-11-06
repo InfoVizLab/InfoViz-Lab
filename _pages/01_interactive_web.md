@@ -2,6 +2,7 @@
 layout: page
 title: 01.interactive_web
 permalink: /01_interactive_web
+image: assets/images/data23-01.jpg
 comments: true
 ---
 
