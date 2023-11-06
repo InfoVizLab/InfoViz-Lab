@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 01.interactive web
+title: 01.interactive_web
 permalink: /01_interactive_web
 comments: true
 ---
