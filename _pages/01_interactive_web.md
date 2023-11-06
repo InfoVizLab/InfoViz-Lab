@@ -1,7 +1,7 @@
 ---
 layout: page
 title: interactive web
-permalink: /01interactive_web
+permalink: /01_interactive_web
 comments: true
 ---
 
