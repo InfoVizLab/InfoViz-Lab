@@ -6,7 +6,7 @@ comments: true
 ---
 
 <div class="row justify-content-between">
-    <div class="col-md-12 pr-5">
+    <div class="col-md-12">
         <img class="shadow-lg" src="{{site.baseurl}}/assets/images/dolphin.png" alt="dolphin" />
         <p>This research started with a rethink of humans and dolphins.</p>
         <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
