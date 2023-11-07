@@ -9,6 +9,9 @@ $(document).ready(function() {
           if( bottom_of_window > bottom_of_object/2 ){
               $(this).animate({'opacity':'1'},500);
           }
+          else( bottom_of_window < bottom_of_object/2 ){
+            $(this).animate({'opacity':'0'},500);
+        }
       }); 
   });
 });
