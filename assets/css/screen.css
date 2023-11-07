@@ -201,6 +201,14 @@ border-radius: 0 0 15px 15px;}
 .main-ban img{width: 100%;}
 
 /*애니메이션*/
+.hideme
+{
+    opacity:0;
+}
+.slideinleft {
+    margin-left:-300px;
+    max-width:100%;
+}
 .fadeinleft {
     opacity:0;
     margin-left:-300px;    
