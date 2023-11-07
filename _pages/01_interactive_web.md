@@ -18,8 +18,8 @@ comments: true
 </div>
 <div id="container">
     <div class="hideme">Fade In</div>
-    <div class="hideme">Fade In</div>
-    <div class="hideme">Fade In</div>
+    <div class="slideinleft">Fade In</div>
+    <div class="fadeinleft">Fade In</div>
     <div class="hideme">Fade In</div>
     <div class="hideme">Fade In</div>
 </div>
