@@ -16,10 +16,12 @@ comments: true
         <p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
     </div>
 </div>
-<div id="container">
-    <div class="hideme">Fade In</div>
-    <div class="slideinleft">Fade In</div>
-    <div class="fadeinleft">Fade In</div>
-    <div class="hideme">Fade In</div>
-    <div class="hideme">Fade In</div>
+<div>
+      <div class="content"><h1>1</h1></div>
+      <div class="content"><h1>2</h1></div>
+      <div class="content"><h1>3</h1></div>
+      <div class="content"><h1>4</h1></div>
+      <div class="content"><h1>5</h1></div>
+      <div class="content"><h1>6</h1></div>
+      <div class="content"><h1>7</h1></div>
 </div>
