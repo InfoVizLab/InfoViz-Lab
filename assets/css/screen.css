@@ -201,26 +201,6 @@ border-radius: 0 0 15px 15px;}
 .main-ban img{width: 100%;}
 
 /*애니메이션*/
-/* html{overflow: hidden;} */
-body.dd{width: 100%; height: 100%;}
-.content{
-	width: 100%; height: 100%;
-	background-color: blueviolet;
-	
-	position: relative;
-}
-.content > h1{
-	position: absolute;
-	top: 50%; left: 50%;
-	transform: translate(-50%,-50%);
- 
-	font-size: 20em;
-	font-weight: bold;
-	text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.6);
- 
-}
-.content:nth-child(even){background-color: #333;}
-
 
 @media (max-width: 991px){
 	.card-body.project{padding: 1.25rem;}
