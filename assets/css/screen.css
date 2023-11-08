@@ -201,7 +201,8 @@ border-radius: 0 0 15px 15px;}
 .main-ban img{width: 100%;}
 
 /*애니메이션*/
-.allscereen{position: fixed;height: 100vh;width: 100vw;}
+.allscereen{position: fixed;height: 100vh;width: 100vw;top: 0;left: 0;background-color: #000;}
+.allscereen div{color: #fff;}
 
 
 @media (max-width: 991px){
