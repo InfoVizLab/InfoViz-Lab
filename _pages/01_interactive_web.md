@@ -17,3 +17,9 @@ comments: true
     </div>
 </div>
 
+<div class="allscereen">
+    <div>1.screen</div>
+    <div>2.screen</div>
+    <div>3.screen</div>
+    <div>4.screen</div>
+</div>

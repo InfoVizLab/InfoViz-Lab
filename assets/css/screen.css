@@ -201,6 +201,8 @@ border-radius: 0 0 15px 15px;}
 .main-ban img{width: 100%;}
 
 /*애니메이션*/
+.allscereen{position: fixed;height: 100vh;width: 100vw;}
+
 
 @media (max-width: 991px){
 	.card-body.project{padding: 1.25rem;}
