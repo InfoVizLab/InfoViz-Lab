@@ -28,9 +28,7 @@ mHtml.animate({scrollTop : 0},10);
 </div>
 
 <div class="section" id="section1">
-    <div id = "section1_detail">
-
-    </div>
+    <div id = "section1_detail">ㅇㅇㅇㅇㅇ</div>
 </div>
 <div class="section" id="section2"></div>
 <div class="section" id="section3"></div>
