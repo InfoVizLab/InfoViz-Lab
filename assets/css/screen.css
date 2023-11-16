@@ -201,9 +201,28 @@ border-radius: 0 0 15px 15px;}
 .main-ban img{width: 100%;}
 
 /*애니메이션*/
-.allscereen{position: fixed;height: 100vh;width: 100vw;top: 0;left: 0;background-color: #000;}
-.allscereen div{color: #fff;}
 
+.section {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+#section1 {
+    background-color: aliceblue;
+}
+
+#section2 {
+    background-color: lightpink;
+}
+
+#section3 {
+    background-color: coral;
+}
+
+#section4 {
+    background-color: aqua;
+}
 
 @media (max-width: 991px){
 	.card-body.project{padding: 1.25rem;}

@@ -4,7 +4,17 @@ title: 01.interactive_web
 permalink: /01_interactive_web
 comments: true
 ---
+<script>
+window.addEventListener("wheel", function(e){
+    e.preventDefault();
+},{passive : false});
 
+var mHtml = $("html");
+var page = 1;
+mHtml.animate({scrollTop : 0},10);
+
+
+</script>
 <div class="row justify-content-between" style="display:none;">
     <div class="col-md-12">
         <img class="shadow-lg" src="{{site.baseurl}}/assets/images/dolphin.png" alt="dolphin" />
@@ -17,9 +27,11 @@ comments: true
     </div>
 </div>
 
-<div class="allscereen">
-    <div>1.screen</div>
-    <div>2.screen</div>
-    <div>3.screen</div>
-    <div>4.screen</div>
+<div class="section" id="section1">
+    <div id = "section1_detail">
+
+    </div>
 </div>
+<div class="section" id="section2"></div>
+<div class="section" id="section3"></div>
+<div class="section" id="section4"></div>
