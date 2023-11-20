@@ -4,17 +4,7 @@ title: 01.interactive_web
 permalink: /01_interactive_web
 comments: true
 ---
-<script>
-window.addEventListener("wheel", function(e){
-    e.preventDefault();
-},{passive : false});
 
-var mHtml = $("html");
-var page = 1;
-mHtml.animate({scrollTop : 0},10);
-
-
-</script>
 <div class="row justify-content-between" style="display:none;">
     <div class="col-md-12">
         <img class="shadow-lg" src="{{site.baseurl}}/assets/images/dolphin.png" alt="dolphin" />
