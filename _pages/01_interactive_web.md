@@ -27,23 +27,3 @@ mHtml.animate({scrollTop : 0},10);
     </div>
 </div>
 
-<div class="image1"></div>
-
-<div class="text">
-  <h2>
-    background-attachment <br><br>
-    - scroll (기본) <br>
-    - fixed (고정)<br>
-  </h2>
-</div>
-
-<div class="image2"></div>
-
-<div class="text">
-  <h2>
-    background-attachment 속성으로, <br>
-    배경 이미지를 고정시켜보세요!
-  </h2>
-</div>
-
-<div class="image3"></div>
