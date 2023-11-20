@@ -201,27 +201,57 @@ border-radius: 0 0 15px 15px;}
 .main-ban img{width: 100%;}
 
 /*애니메이션*/
-
-.section {
-    width: 100%;
-    height: 100%;
-    position: relative;
+h2 {
+  transform: translateX(-50%);
+  opacity: 0;
+  transition: .8s;
 }
 
-#section1 {
-    background-color: aliceblue;
+h2.active {
+  transform: translateX(0);
+  opacity: 1;
 }
 
-#section2 {
-    background-color: lightpink;
+div {
+  width: 100%;
+  height: 100vh;
+  position: relative;
 }
 
-#section3 {
-    background-color: coral;
+.image1 {
+    background: url(https://cdn.pixabay.com/photo/2020/07/14/16/18/snow-5404785_960_720.jpg) no-repeat;
+  background-attachment: fixed;
 }
 
-#section4 {
-    background-color: aqua;
+.image2 {
+    background: url(https://cdn.pixabay.com/photo/2022/08/23/06/55/village-7405160_960_720.jpg) no-repeat;
+  background-attachment: fixed;
+}
+
+.image3 {
+    background: url(
+https://cdn.pixabay.com/photo/2022/08/30/15/33/nature-7421337_960_720.jpg) no-repeat;
+  background-attachment: fixed;
+}
+
+ /* ----------- */
+
+.text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #fff;
+  background: #1e3932;
+  font-size: .9rem;
+}
+
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css");
+
+* {
+  font-family: Pretendard;
+  padding: 0;
+  margin: 0;
 }
 
 @media (max-width: 991px){
