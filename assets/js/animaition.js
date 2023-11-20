@@ -1,20 +1,17 @@
-const wrap = document.getElementsByClassName('wrap')[0]; // 보일 영역
-const container = document.getElementsByClassName('container');
-let page = 0; // 영역 포지션 초기값
-const lastPage = container.length - 1; // 마지막 페이지
-
-window.addEventListener('wheel',(e)=>{
-    e.preventDefault();
-    if(e.deltaY > 0){
-        page++;
-    }else if(e.deltaY < 0){
-        page--;
-    }
-    if(page < 0){
-        page=0;
-    }else if(page > lastPage){
-        page = lastPage;
-    }
-    console.log(e.deltaY)
-    wrap.style.top = page * -100 + 'vh';
-},{passive:false}); // 디폴트 기능 제거 - 스크롤
+$(document).ready(function(){
+ $(window).scroll(function(){
+  //window의 스크롤창을 변수에 저장  
+  var st = $(this).scrollTop();
+  $('h1').text(st);
+  if(st > 700){
+    $('.box1').stop().animate({top:300});
+  } else{
+    $('.box1').stop().animate({top:900});
+  }
+  if(st > 1500){
+    $('.box2').stop().animate({left:100});
+  } else{
+    $('.box2').stop().animate({left:-250});
+  }
+ });
+});
