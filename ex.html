@@ -21,30 +21,39 @@
 <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.5/dist/web/static/pretendard.css"/>
 
 </head>
-<style>*{margin:0; padding:0;}</style>
+<style>
+html {
+    height:100%;
+}
+body {
+    height:100%;
+    margin:0;
+    border:0;
+    padding:0;
+    overflow: hidden;
+}
+.wrap {
+    position:relative;
+    top:0;
+    width:100%;height:100%;
+    transition: 0.5s;
+}
+.container {
+    width:100%;height:100%;
+}
+.container:nth-child(1){background-color: green;}
+.container:nth-child(2){background-color: orange;}
+.container:nth-child(3){background-color: yellow;}
+.container:nth-child(4){background-color: red;}
+</style>
 <body>
 
-        <div class="exbox">
-            <div class="image1"></div>
-            <div class="text">
-            <h2>
-                background-attachment <br><br>
-                - scroll (기본) <br>
-                - fixed (고정)<br>
-            </h2>
-            </div>
-
-            <div class="image2"></div>
-
-            <div class="text">
-            <h2>
-                background-attachment 속성으로, <br>
-                배경 이미지를 고정시켜보세요!
-            </h2>
-            </div>
-
-            <div class="image3"></div>
-        </div>
+    <div class="wrap">
+        <div class="container"></div>
+        <div class="container"></div>
+        <div class="container"></div>
+        <div class="container"></div>
+    </div>
 
 </body>
 </html>

@@ -202,52 +202,6 @@ border-radius: 0 0 15px 15px;}
 
 /*애니메이션*/
 
-.exbox h2 {
-    transform: translateX(-50%);
-    opacity: 0;
-    transition: .8s;
-  }
-  
-  .exbox h2.active {
-    transform: translateX(0);
-    opacity: 1;
-  }
-  
-  .exbox div {
-    width: 100%;
-    height: 100vh;
-    position: relative;
-  }
-  
-  .exbox .image1 {
-      background-color: red;
-    background-attachment: fixed;
-  }
-  
-  .exbox .image2 {
-      background-color:blue;
-    background-attachment: fixed;
-  }
-  
-  .exbox .image3 {
-      background-color: yellow;
-    background-attachment: fixed;
-  }
-  
-   /* ----------- */
-  
-   .exbox .text {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    color: #fff;
-    background: #1e3932;
-    font-size: .9rem;
-  }
-  
-
-
 
   
 @media (max-width: 991px){
