@@ -220,18 +220,17 @@ border-radius: 0 0 15px 15px;}
   }
   
   .exbox .image1 {
-      background: url(https://cdn.pixabay.com/photo/2020/07/14/16/18/snow-5404785_960_720.jpg) no-repeat;
+      background-color: red;
     background-attachment: fixed;
   }
   
   .exbox .image2 {
-      background: url(https://cdn.pixabay.com/photo/2022/08/23/06/55/village-7405160_960_720.jpg) no-repeat;
+      background-color:blue;
     background-attachment: fixed;
   }
   
   .exbox .image3 {
-      background: url(
-  https://cdn.pixabay.com/photo/2022/08/30/15/33/nature-7421337_960_720.jpg) no-repeat;
+      background-color: yellow;
     background-attachment: fixed;
   }
   
