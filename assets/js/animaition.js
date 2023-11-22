@@ -4,7 +4,12 @@ $(document).ready(function(){
   var st = $(this).scrollTop();
   $('h1').text(st);
   if(st > 1){
-    $('.text1, .text1_1').stop().animate({left:100});
+    $('.text1, .text1_1').stop().animate({left:150});
+  } else{
+    $('.text1, .text1_1').stop().animate({left:-250});
+  }
+  if(st > 3){
+    $('.text1, .text1_1').stop().animate({left:150});
   } else{
     $('.text1, .text1_1').stop().animate({left:-250});
   }
