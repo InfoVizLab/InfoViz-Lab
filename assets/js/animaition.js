@@ -4,9 +4,9 @@ $(document).ready(function(){
   var st = $(this).scrollTop();
   $('h1').text(st);
   if(st > 5){
-    $('.text1').stop().animate({top:100});
+    $('.text1, .text1_1').stop().animate({top:100});
   } else{
-    $('.text1').stop().animate({top:-250});
+    $('.text1 .text1_1').stop().animate({top:-250});
   }
   if(st > 700){
     $('.box1').stop().animate({top:300});
