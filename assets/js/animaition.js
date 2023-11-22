@@ -4,14 +4,14 @@ $(document).ready(function(){
   var st = $(this).scrollTop();
   $('h1').text(st);
   if(st > 1){
-    $('.img1').stop().animate({left:150});
+    $('.img1').stop().animate({left:'50%'});
   } else{
-    $('.img1').stop().animate({left:-250});
+    $('.img1').stop().animate({left:'-100%'});
   }
   if(st > 3){
     $('.text1').stop().animate({left:'50%'});
   } else{
-    $('.text1').stop().animate({left:'100%'});
+    $('.text1').stop().animate({left:'-100%'});
   }
   if(st > 50){
     $('.text1_1').stop().animate({left:150});
