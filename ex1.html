@@ -34,7 +34,7 @@
 #img1_1{left: 50%;bottom: 0;}
 #img1_2{left: 50%;bottom: 45%;}
 #img2_1{left: 50%;bottom: 0;height: 90%;z-index: 3;}
-#img2_2{left: 50%;top: 0;height: 90%;z-index: 2;}
+#img2_2{left: 50%;top: -5%;height: 75%;z-index: 2;}
 h1{position: fixed;right: 0;z-index: 1;}
 .box{position: absolute;width: 300px;height: 300px;background-color: red;}
 .box1{left: 50%;margin-left: -150px;top: 900px;}
@@ -46,8 +46,8 @@ h1{position: fixed;right: 0;z-index: 1;}
 .img1{position: absolute; left: -100%;margin-left: -50%;top: 50%;}
 </style>
 <body>
-    <div id="wrap">
-        <div id="s1" class="section">
+    <div id="wrap" class="pages">
+        <div id="s1" class="section page">
             <div class="text_style">
                 <h2>안녕! 돌고래야?</h2>
                 <p>우리는 살면서 한번쯤은 수족관 속 돌고래를 본적이 있을 것이다.<br>과연 그들은 어디서 왔을까?</p>
@@ -55,34 +55,34 @@ h1{position: fixed;right: 0;z-index: 1;}
             <img src="/InfoViz-Lab/assets/images/dolphin/1_bg_1.png" id="img1_1" class="img_asu">
             <img src="/InfoViz-Lab/assets/images/dolphin/kujira1.png" id="img1_2" class="img_asu">
         </div>
-        <div id="s2" class="section">
+        <div id="s2" class="section page">
             <img src="/InfoViz-Lab/assets/images/dolphin/2_bg_1.png" id="img2_1" class="img_asu">
             <img src="/InfoViz-Lab/assets/images/dolphin/2_bg_2.png" id="img2_2" class="img_asu">
         </div>
-        <div id="s3" class="section">
+        <div id="s3" class="section page">
             <img src="/InfoViz-Lab/assets/images/dolphin/3_bg_1.png" id="img3_1" class="img_asu">
             <img src="/InfoViz-Lab/assets/images/dolphin/3_bg_2.png" id="img3_2" class="img_asu">
         </div>
-        <div id="s4" class="section">
+        <div id="s4" class="section page">
             <img src="/InfoViz-Lab/assets/images/dolphin/4_bg_1.png" id="img4_1" class="img_asu">
         </div>
-        <div id="s5" class="section">
+        <div id="s5" class="section page">
             <img src="/InfoViz-Lab/assets/images/dolphin/5_bg_1.png" id="img5_1" class="img_asu">
             <img src="/InfoViz-Lab/assets/images/dolphin/5_bg_2.png" id="img5_2" class="img_asu">
             <img src="/InfoViz-Lab/assets/images/dolphin/5_bg_3.png" id="img5_3" class="img_asu">
         </div>
-        <div id="s6" class="section">
+        <div id="s6" class="section page">
             <img src="/InfoViz-Lab/assets/images/dolphin/6_bg_1.png" id="img6_1" class="img_asu">
             <img src="/InfoViz-Lab/assets/images/dolphin/6_bg_2.png" id="img6_2" class="img_asu">
             <img src="/InfoViz-Lab/assets/images/dolphin/6_bg_3.png" id="img6_3" class="img_asu">
             <img src="/InfoViz-Lab/assets/images/dolphin/6_bg_4.png" id="img6_4" class="img_asu">
         </div>
-        <div id="s7" class="section">
+        <div id="s7" class="section page">
             <img src="/InfoViz-Lab/assets/images/dolphin/7_bg_1.png" id="img7_1" class="img_asu">
             <img src="/InfoViz-Lab/assets/images/dolphin/7_bg_2.png" id="img7_2" class="img_asu">
             <img src="/InfoViz-Lab/assets/images/dolphin/7_bg_3.png" id="img7_3" class="img_asu">
         </div>
-        <div id="s8" class="section">
+        <div id="s8" class="section page">
             <img src="/InfoViz-Lab/assets/images/dolphin/8_bg_1.png" id="img8_1" class="img_asu">
             <img src="/InfoViz-Lab/assets/images/dolphin/8_bg_2.png" id="img8_2" class="img_asu">
             <img src="/InfoViz-Lab/assets/images/dolphin/8_bg_3.png" id="img8_3" class="img_asu">
@@ -90,5 +90,7 @@ h1{position: fixed;right: 0;z-index: 1;}
             <img src="/InfoViz-Lab/assets/images/dolphin/8_bg_5.png" id="img8_5" class="img_asu">
         </div>
     </div>
+    <ul class="pagination">
+    </ul>
 </body>
 </html>
