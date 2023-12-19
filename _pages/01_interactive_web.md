@@ -18,20 +18,12 @@ comments: true
 </div>
 
 <div class="exbox">
-    <div class="image1"></div>
-    <div class="text">
-    <h2>
-        background-attachment <br><br>
-        - scroll (기본) <br>
-        - fixed (고정)<br>
-    </h2>
+    <div class="">
+        <img src="{{site.baseurl}}/assets/images/dolphin.png">
+        <a href="https://infovizlab.github.io/InfoViz-Lab/dolphin.html">1안<a>
     </div>
-    <div class="image2"></div>
-    <div class="text">
-    <h2>
-        background-attachment 속성으로, <br>
-        배경 이미지를 고정시켜보세요!
-    </h2>
+    <div class="">
+        <img src="{{site.baseurl}}/assets/images/dolphin.png">
+        <a href="https://infovizlab.github.io/InfoViz-Lab/dolphin.html">2안<a>
     </div>
-    <div class="image3"></div>
 </div>
