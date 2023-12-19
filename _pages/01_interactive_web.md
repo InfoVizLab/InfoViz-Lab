@@ -19,11 +19,11 @@ comments: true
 
 <div class="exbox">
     <div class="">
-        <img src="{{site.baseurl}}/assets/images/dolphin.png">
-        <a href="https://infovizlab.github.io/InfoViz-Lab/dolphin.html">1안<a>
+        <img src="{{site.baseurl}}/assets/images/dolphin.png" style="width:50%;display:inline-block;">
+        <a href="https://infovizlab.github.io/InfoViz-Lab/dolphin.html"style="width:50%;display:inline-block;">1안</a>
     </div>
     <div class="">
-        <img src="{{site.baseurl}}/assets/images/dolphin.png">
-        <a href="https://infovizlab.github.io/InfoViz-Lab/dolphin.html">2안<a>
+        <img src="{{site.baseurl}}/assets/images/dolphin.png"style="width:50%;display:inline-block;">
+        <a href="https://infovizlab.github.io/InfoViz-Lab/dolphin.html"style="width:50%;display:inline-block;">2안</a>
     </div>
 </div>
