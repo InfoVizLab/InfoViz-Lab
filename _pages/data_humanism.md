@@ -58,7 +58,8 @@ comments: true
                 </div>
                 <div class="col-12 col-md-12 col-lg-9">
                     <b>02.Dolphin Story</b>
-                    <p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+                    <p>Study Results Based on the Method of Delivery - Dolphin Story</p>
+                    <p>If you want to check, please click.<br>(for mobile)</p>
                 </div>
             </div>
         </a>
