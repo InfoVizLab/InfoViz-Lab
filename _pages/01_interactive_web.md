@@ -18,11 +18,11 @@ comments: true
 </div>
 
 <div class="exbox">
-    <div class="">
+    <div>
         <img src="{{site.baseurl}}/assets/images/dolphin.png" style="width:50%;display:inline-block;"/>
         <a href="https://infovizlab.github.io/InfoViz-Lab/dolphin1.html" style="width:50%;display:inline-block;">1안</a>
     </div>
-    <div class="">
+    <div>
         <img src="{{site.baseurl}}/assets/images/dolphin.png" style="width:50%;display:inline-block;"/>
         <a href="https://infovizlab.github.io/InfoViz-Lab/dolphin2.html" style="width:50%;display:inline-block;">2안</a>
     </div>
