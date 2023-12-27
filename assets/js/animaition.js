@@ -35,7 +35,6 @@ window.onload = () => {
   const Slider = function(pages, pagination) {
     let slides = [],
         btns = [],
-        pages = document.querySelector('.pages'),
         count = 0,
         current = 0,
         touchstart = 0,
@@ -53,7 +52,6 @@ window.onload = () => {
         pagination.appendChild(btn);
       }
       btns[0].classList.add('active');
-      pages[0].classList.add('add');
     }
 
     const gotoNum = (index) => {
@@ -61,10 +59,8 @@ window.onload = () => {
         animation_state = true;
         setTimeout(() => animation_state = false, 500);
         btns[current].classList.remove('active');
-        pages[current].classList.remove('add');
         current = index;
         btns[current].classList.add('active');
-        pages[current].classList.add('add');
         for(let i = 0; i < count; i++) {
           slides[i].style.bottom = (current - i) * 100 + '%';
         }
