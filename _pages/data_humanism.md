@@ -5,7 +5,7 @@ permalink: /data_humanism
 comments: true
 ---
 
-<div class="mb-30px">
+<div class="mb-30px" style="display:none;">
     <h4>2022</h4>
     <div class="databox data_01">
         <a href="{{ site.baseurl }}/001">
