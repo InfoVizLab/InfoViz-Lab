@@ -45,7 +45,6 @@ window.onload = () => {
       count = slides.length;
       for(let i = 0; i < count; i++) {
         slides[i].style.bottom = -(i * 100) + '%';
-        pages[0].classList.add('add');
         let btn = document.createElement('li');
         btn.dataset.slide = i;
         btn.addEventListener('click', btnClick)
@@ -53,6 +52,7 @@ window.onload = () => {
         pagination.appendChild(btn);
       }
       btns[0].classList.add('active');
+      pages[0].classList.add('add');
     }
 
     const gotoNum = (index) => {
