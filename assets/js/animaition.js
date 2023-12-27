@@ -1,4 +1,35 @@
-
+$(document).ready(function(){
+ $(window).scroll(function(){
+  //window의 스크롤창을 변수에 저장  
+  var st = $(this).scrollTop();
+  $('h1.point_num').text(st);
+  if(st > 1){
+    $('.img1').stop().animate({left:'50%'});
+  } else{
+    $('.img1').stop().animate({left:'-100%'});
+  }
+  if(st > 3){
+    $('.text1').stop().animate({left:'50%'});
+  } else{
+    $('.text1').stop().animate({left:'-100%'});
+  }
+  if(st > 50){
+    $('.text1_1').stop().animate({left:150});
+  } else{
+    $('.text1_1').stop().animate({left:-250});
+  }
+  if(st > 700){
+    $('.box1').stop().animate({top:300});
+  } else{
+    $('.box1').stop().animate({top:900});
+  }
+  if(st > 1500){
+    $('.box2').stop().animate({left:100});
+  } else{
+    $('.box2').stop().animate({left:-250});
+  }
+ });
+});
 
 window.onload = () => {
   const Slider = function(pages, pagination) {
@@ -14,6 +45,7 @@ window.onload = () => {
       count = slides.length;
       for(let i = 0; i < count; i++) {
         slides[i].style.bottom = -(i * 100) + '%';
+        pages[0].classList.add('add');
         let btn = document.createElement('li');
         btn.dataset.slide = i;
         btn.addEventListener('click', btnClick)
@@ -28,8 +60,10 @@ window.onload = () => {
         animation_state = true;
         setTimeout(() => animation_state = false, 500);
         btns[current].classList.remove('active');
+        pages[current].classList.remove('add');
         current = index;
         btns[current].classList.add('active');
+        pages[current].classList.add('add');
         for(let i = 0; i < count; i++) {
           slides[i].style.bottom = (current - i) * 100 + '%';
         }
@@ -50,15 +84,3 @@ window.onload = () => {
   let pagination = document.querySelector('.pagination');
   let slider = new Slider(pages, pagination)
 }
-window.pageYoffset;
-window.scrollY;
-
-const content = document.querySelector('.page');
-function animationWhendisplayed(){
-  window.addEventListner('scroll', () => {
-    if(window.innerHeight > content.getBoundingClientRect().top){
-      content.classList.add('on');
-    }
-  })
-}
-animationWhendisplayed();
