@@ -57,6 +57,6 @@ function animationWhendisplayed(){
     if(window.innerHeight > content.getBoundingClientRect().top){
       content.classList.add('on');
     }
-  })
-}
+  }
+)}
 animationWhendisplayed();
