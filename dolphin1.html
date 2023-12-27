@@ -34,32 +34,32 @@ h2{font-family: 'Dongle', sans-serif;}
 #s8{background-image:url('/InfoViz-Lab/assets/images/dolphin/8_bg.jpg');}
 .section{height: 100vh;background-repeat: no-repeat;background-position: center;background-size: cover;}
 .img_asu{position: absolute;}
-#img1_1{right: -50%;bottom: -50%;width: 75%;opacity: 0;}
+#img1_1{right: -50%;bottom: -50%;width: 75%;opacity: 0;transform: translate(50%,0%);}
 .add #img1_1{right: 50%;bottom: 0;width: 75%; animation-duration: 2s;animation-name: img1;transform: translate(50%,0%);opacity: 1;}
 /*애니메이션*/
 @keyframes img1{
 from{right: -50%;bottom: -50%;opacity: 0;}
 to{right: 50%;bottom: 0;opacity: 1;}
 }
-#img1_2{left: -50%;bottom: 0;width: 80%;opacity: 0;}
+#img1_2{left: -50%;bottom: 0;width: 80%;opacity: 0;transform: translate(-50%,0%);}
 .add #img1_2{left: 50%;bottom: 45%;width: 80%;animation-duration: 2s;animation-name: img2;transform: translate(-50%,0%);opacity: 1;}
 @keyframes img2{
 from{left: -50%;bottom: 0;opacity: 0;}
 to{left: 50%;bottom: 45%;opacity: 1;}
 }
 .add #img2_1{left: 50%;bottom: 0;height: 90%;z-index: 3;transform: translate(-50%,0%);}
-#img2_2{left: 50%;top: 5%;height: 75%;z-index: 2;opacity: 0;}
+#img2_2{left: 50%;top: 5%;height: 75%;z-index: 2;transform: translate(-50%,0%);opacity: 0;}
 .add #img2_2{left: 50%;top: -10%;height: 75%;z-index: 2;transform: translate(-50%,0%);animation-duration: 2s;animation-name: img3;opacity: 1;}
 @keyframes img3{
 from{left: 50%;top: 5%;opacity: 0;}
 to{left: 50%;top: -10%;opacity: 1;}
 }
 #img3_1{left: 50%;bottom: 50%;z-index: 3;width: 100%;transform: translate(-50%,0%);}
-#img3_2{left: 30%;bottom: 30%;z-index: 2;width: 80%;transform: translate(-50%,0%);}
+#img3_2{left: 30%;bottom: 30%;z-index: 2;width: 80%;transform: translate(-50%,0%);opacity: 0;}
 .add #img3_2{left: 30%;bottom: 30%;z-index: 2;width: 80%;z-index: 2;transform: translate(-50%,0%);animation-duration: 2s;animation-name: img4;opacity: 1;}
 @keyframes img4{
 from{left: 50%;top: 5%;opacity: 0;}
-to{left: 50%;top: -10%;opacity: 1;}
+to{left: 50%;top: 30%;opacity: 1;}
 }
 #img3_3{left: 90%;bottom: 0;z-index: 4;transform: translate(-50%,0%);}
 #img4_1{left: 67%;bottom: 20%;width:50%;z-index: 2;transform: translate(-50%,0%);}
