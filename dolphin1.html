@@ -23,8 +23,8 @@
 <style>
 *{margin: 0;padding: 0;font-family: 'Dongle', sans-serif;}
 html, body {height: 100%;width: 100%;max-width: 650px;margin: 0 auto;position: relative;}
-h2{font-family: 'Dongle', sans-serif;font-size: 2rem;}
-p{font-size: 1.5rem;}
+h2{font-family: 'Dongle', sans-serif;font-size: 4rem;}
+p{font-size: 2rem;}
 #s1{background-image:url('/InfoViz-Lab/assets/images/dolphin/1_bg.jpg');}
 #s2{background-image:url('/InfoViz-Lab/assets/images/dolphin/2_bg.jpg');}
 #s3{background-image:url('/InfoViz-Lab/assets/images/dolphin/3_bg.jpg');}
@@ -35,9 +35,10 @@ p{font-size: 1.5rem;}
 #s8{background-image:url('/InfoViz-Lab/assets/images/dolphin/8_bg.jpg');}
 .section{height: 100vh;background-repeat: no-repeat;background-position: center;background-size: cover;}
 .img_asu{position: absolute;}
+.text_style{opacity: 0;}
+.add .text_style{opacity: 1;}
 #img1_1{right: -50%;bottom: -50%;width: 75%;opacity: 0;transform: translate(50%,0%);}
 .add #img1_1{right: 50%;bottom: 0;width: 75%; animation-duration: 2s;animation-name: img1;transform: translate(50%,0%);opacity: 1;}
-/*애니메이션*/
 @keyframes img1{
 from{right: -50%;bottom: -50%;opacity: 0;}
 to{right: 50%;bottom: 0;opacity: 1;}
