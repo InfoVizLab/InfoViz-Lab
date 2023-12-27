@@ -35,7 +35,6 @@ window.onload = () => {
   const Slider = function(pages, pagination) {
     let slides = [],
         btns = [],
-        pageadd = [],
         count = 0,
         current = 0,
         touchstart = 0,
@@ -53,6 +52,7 @@ window.onload = () => {
         pagination.appendChild(btn);
       }
       btns[0].classList.add('active');
+      slides[0].classList.add('add')
     }
 
     const gotoNum = (index) => {
@@ -60,13 +60,16 @@ window.onload = () => {
         animation_state = true;
         setTimeout(() => animation_state = false, 500);
         btns[current].classList.remove('active');
+        slides[current].classList.remove('add');
         current = index;
         btns[current].classList.add('active');
+        slides[current].classList.add('add');
         for(let i = 0; i < count; i++) {
           slides[i].style.bottom = (current - i) * 100 + '%';
         }
       }
     }
+
     const gotoNext = () => current < count - 1 ? gotoNum(current + 1) : false;
     const gotoPrev = () => current > 0 ? gotoNum(current - 1) : false;
     const btnClick = (e) => gotoNum(parseInt(e.target.dataset.slide));
@@ -75,19 +78,6 @@ window.onload = () => {
     pages.onmousewheel = pages.onwheel = (e) => e.deltaY < 0 ? gotoPrev() : gotoNext();
 
     init();
-
-    const addclass = (index) => {
-      if((index != current) && !animation_state) {
-        animation_state = true;
-        setTimeout(() => animation_state = false, 500);
-        pageadd[current].classList.remove('add');
-        current = index;
-        pageadd[current].classList.add('add');
-        for(let i = 0; i < count; i++) {
-          slides[i].style.bottom = (current - i) * 100 + '%';
-        }
-      }
-    }
   }
 
   let pages = document.querySelector('.pages');
