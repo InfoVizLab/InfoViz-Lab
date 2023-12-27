@@ -38,9 +38,9 @@ p{font-size: 2rem;line-height: 2rem;margin-bottom: 0.5rem;}
 #s5_2{background-image:url('/InfoViz-Lab/assets/images/dolphin/5_bg.jpg');}
 #s5.add .text_style{position: absolute;bottom: 0;z-index: 4;}
 #s6{background-image:url('/InfoViz-Lab/assets/images/dolphin/6_bg.jpg');}
-#s6.add .text_style{position: absolute;top: 0;z-index: 4;color: #2d2929;}
+#s6.add .text_style{position: absolute;top: 10%;z-index: 4;color: #2d2929;}
 #s6_2{background-image:url('/InfoViz-Lab/assets/images/dolphin/6_bg.jpg');}
-#s6_2.add .text_style{position: absolute;top: 0;z-index: 4;color: #2d2929;}
+#s6_2.add .text_style{position: absolute;top: 7%;z-index: 4;color: #2d2929;}
 #s7{background-image:url('/InfoViz-Lab/assets/images/dolphin/7_bg.jpg');}
 #s7_2{background-image:url('/InfoViz-Lab/assets/images/dolphin/7_bg.jpg');}
 #s8{background-image:url('/InfoViz-Lab/assets/images/dolphin/8_bg.jpg');}
@@ -121,17 +121,27 @@ to{left: 50%;bottom: 30%;opacity: 1;}
 #img6_2{left: 50%;bottom: 0;z-index: 4;height: 100%;transform: translate(-50%,0%);}
 #s6 #img6_3{left: 80%;bottom: 0;width: 80%;transform: translate(-50%,0%);opacity: 0;}
 #s6.add #img6_3{left: 80%;bottom: 18%;width: 80%;transform: translate(-50%,0%);animation-duration: 2s;animation-name: img10;opacity: 1;}
-#s6_2 #img6_3{left: 80%;bottom: 18%;width: 80%;transform: translate(-50%,0%);}
+#s6_2 #img6_3{left: 80%;bottom: 18%;width: 80%;transform: translate(-50%,0%);opacity: 1;}
+#s6_2.add #img6_3{left: 55%;bottom: -10%;width: 80%;transform: translate(-50%,0%);animation-duration: 2s;animation-name: img10_1;opacity: 00;}
 @keyframes img10{
 from{left: 80%;bottom:0;opacity: 0;}
 to{left: 80%;bottom: 18%;opacity: 1;}
 }
+@keyframes img10_1{
+from{left: 80%;bottom:18%;opacity: 1;}
+to{left: 55%;bottom: -10%;opacity: 0;}
+}
 #s6 #img6_4{left: 30%;bottom: -50%;z-index: 3;width: 65%;transform: translate(-50%,0%);opacity: 0;}
 #s6.add #img6_4{left: 30%;bottom: 0;width: 65%;transform: translate(-50%,0%);animation-duration: 2s;animation-name: img11;opacity: 1;}
-#s6_2 #img6_4{left: 30%;bottom: 0;z-index: 3;width: 65%;transform: translate(-50%,0%);}
+#s6_2 #img6_4{left: 30%;bottom: 0;z-index: 3;width: 65%;transform: translate(-50%,0%);opacity: 1;}
+#s6_2.add #img6_4{left:55%;bottom: -25%;width: 65%;transform: translate(-50%,0%);animation-duration: 2s;animation-name: img11_1;opacity: 0;}
 @keyframes img11{
 from{left: 30%;bottom:-50%;opacity: 0;}
 to{left: 30%;bottom: 0%;opacity: 1;}
+}
+@keyframes img11_1{
+from{left: 30%;bottom:-50%;opacity: 0;}
+to{left: 55%;bottom: -25%%;opacity: 1;}
 }
 #img7_1{left: 50%;bottom: 0;z-index: 3;height: 100%;transform: translate(-50%,0%);}
 #img7_2{left: 50%;bottom: 10%;z-index: 5;width: 100%;transform: translate(-50%,0%);}
