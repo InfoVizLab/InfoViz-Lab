@@ -58,5 +58,5 @@ function animationWhendisplayed(){
       content.classList.add('on');
     }
   }
-)}
+}
 animationWhendisplayed();
