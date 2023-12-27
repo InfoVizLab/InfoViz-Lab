@@ -82,3 +82,14 @@ window.onload = () => {
   let slider = new Slider(pages, pagination)
 }
 
+const content = document.querySelector('.page');
+
+function animationWhendisplayed(){
+  window.addEventListner('scroll', () => {
+    if(window.innerHeight > content.getBoundingClientRect().top){
+      content.classList.add('on');
+    }
+  }
+}
+
+animationWhendisplayed();
