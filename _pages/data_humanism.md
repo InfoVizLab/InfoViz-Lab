@@ -51,13 +51,13 @@ comments: true
         </a>
     </div>
     <div class="databox data_02">
-        <a href="{{ site.baseurl }}/01_interactive_web">
+        <a href="{{ site.baseurl }}/dolphin1.html">
             <div class="row">
                 <div class="col-12 col-md-12 col-lg-3 pr-lg-0">
                     <img class="" src="{{site.baseurl}}/assets/images/data23-02.jpg" alt="" />
                 </div>
                 <div class="col-12 col-md-12 col-lg-9">
-                    <b>02.Dolphin Story</b>
+                    <b>02.Hello, dolphin?</b>
                     <p>Study Results Based on the Method of Delivery - Dolphin Story</p>
                     <p>If you want to check, please click.<br>(for mobile)</p>
                 </div>
