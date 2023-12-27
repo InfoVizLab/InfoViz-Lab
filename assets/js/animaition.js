@@ -50,6 +50,8 @@ window.onload = () => {
   let pagination = document.querySelector('.pagination');
   let slider = new Slider(pages, pagination)
 }
+window.pageYoffset;
+window.scrollY;
 
 const content = document.querySelector('.page');
 function animationWhendisplayed(){
