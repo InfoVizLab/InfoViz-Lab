@@ -81,7 +81,7 @@ window.onload = () => {
   let pagination = document.querySelector('.pagination');
   let slider = new Slider(pages, pagination)
 }
-const spyEls = document.querySelectorAll('.scroll-spy')
+const spyEls = document.querySelectorAll('.page')
 spyEls.forEach(function(spyEl){
   new ScrollMagic
     .Scene({ // 감시할 장면(Scene)을 추가
