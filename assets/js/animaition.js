@@ -35,7 +35,6 @@ window.onload = () => {
   const Slider = function(pages, pagination) {
     let slides = [],
         btns = [],
-        pages = [],
         count = 0,
         current = 0,
         touchstart = 0,
