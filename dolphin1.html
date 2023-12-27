@@ -34,13 +34,13 @@ h2{font-family: 'Dongle', sans-serif;}
 #s8{background-image:url('/InfoViz-Lab/assets/images/dolphin/8_bg.jpg');}
 .section{height: 100vh;background-repeat: no-repeat;background-position: center;background-size: cover;}
 .img_asu{position: absolute;}
-#img1_1{right: 50%;bottom: 0;width: 75%; animation-duration: 2s;animation-name: img1;transform: translate(50%,0%);}
+.add #img1_1{right: 50%;bottom: 0;width: 75%; animation-duration: 2s;animation-name: img1;transform: translate(50%,0%);}
 /*애니메이션*/
 @keyframes img1{
-from{right: -50%;bottom: -50%;}
-to{right: 50%;bottom: 0;}
+from{right: -50%;bottom: -50%;opacity: 0;}
+to{right: 50%;bottom: 0;opacity: 1;}
 }
-#img1_2{left: 50%;bottom: 45%;width: 80%;animation-duration: 2s;animation-name: img2;transform: translate(-50%,0%);}
+.add #img1_2{left: 50%;bottom: 45%;width: 80%;animation-duration: 2s;animation-name: img2;transform: translate(-50%,0%);}
 @keyframes img2{
 from{left: -50%;bottom: 0;}
 to{left: 50%;bottom: 45%;}
