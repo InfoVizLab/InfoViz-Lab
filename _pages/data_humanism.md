@@ -12,11 +12,11 @@ comments: true
         <a href="{{ site.baseurl }}/001">
             <div class="row">
                 <div class="col-12 col-md-12 col-lg-3 pr-lg-0">
-                    <img class="" src="{{site.baseurl}}/assets/images/data23-01.jpg" alt="" />
+                    <img class="" src="{{site.baseurl}}/assets/images/data23-02.jpg" alt="" />
                 </div>
                 <div class="col-12 col-md-12 col-lg-9">
-                    <b>01.a report on suicide</b>
-                    <p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+                    <b>01.hello,dolphin?</b>
+                    <p>돌고래의 실태를 시각화의 형태에 따른 반응을 보는 프로젝트 </p>
                 </div>
             </div>
         </a>
