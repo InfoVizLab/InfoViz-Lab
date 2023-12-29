@@ -72,19 +72,19 @@ post_class: post-template
                         <h3 class="font-weight-bold">Summary</h3>
                         {% include toc.html html=content %}
                     </div>
-                    <div class="exbox">
-                        <div>
-                            <img src="{{ page.imgthum }}" class="" style="width:48%;display:inline-block;"/>
-                            <a href="{{ page.link_A }}" target="_blank" style="margin-left:2%;width:48%;display:inline-block;background-color:#000;text-align:center;color:#fff;font-weight:bold;">1안</a>
-                        </div>
-                        <div style="margin-top:10px;">
-                            <img src="{{ page.imgthum }}" style="width:48%;display:inline-block;"/>
-                            <a href="{{ page.link_B }}" target="_blank" style="margin-left:2%;width:48%;display:inline-block;background-color:#000;text-align:center;color:#fff;font-weight:bold;">2안</a>
-                        </div>
-                    </div>
                 {% endif %}
                 <!-- End Toc -->
                 {{content}}
+            </div>
+            <div class="exbox">
+                <div>
+                    <img src="{{ page.imgthum }}" class="" style="width:48%;display:inline-block;"/>
+                    <a href="{{ page.link_A }}" target="_blank" style="margin-left:2%;width:48%;display:inline-block;background-color:#000;text-align:center;color:#fff;font-weight:bold;">1안</a>
+                </div>
+                <div style="margin-top:10px;">
+                    <img src="{{ page.imgthum }}" style="width:48%;display:inline-block;"/>
+                    <a href="{{ page.link_B }}" target="_blank" style="margin-left:2%;width:48%;display:inline-block;background-color:#000;text-align:center;color:#fff;font-weight:bold;">2안</a>
+                </div>
             </div>
 
             <!-- Rating -->
