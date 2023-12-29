@@ -21,7 +21,7 @@ comments: true
             </div>
         </a>
     </div>
-    <div class="databox data_02">
+    <div class="databox data_02" style="display:none;">
         <a href="{{ site.baseurl }}/01_interactive_web">
             <div class="row">
                 <div class="col-12 col-md-12 col-lg-3 pr-lg-0">
