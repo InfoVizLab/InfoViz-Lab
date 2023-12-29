@@ -8,7 +8,7 @@ comments: true
 <div class="mb-30px" style="display:none;">
     <h4>2022</h4>
     <div class="databox data_01">
-        <a href="{{ site.baseurl }}{{ post.url }}">
+        <a href="{{ site.baseurl }}/001">
             <div class="row">
                 <div class="col-12 col-md-12 col-lg-3 pr-lg-0">
                     <img class="" src="{{site.baseurl}}/assets/images/data22-01.jpg" alt="" />
