@@ -56,14 +56,14 @@ p{font-size: 1.5rem;line-height: 1.8rem;margin-bottom: 0.5rem;}
 .add.page img{animation: bubble 2s ease; animation-fill-mode: forwards;}
 .graph{z-index: 6;position: absolute;background-color: rgb(255,255,255,0.5);width: 80%;transform: translate(-50%, 0);}
 .graph img{width:100%;}
-#img1_1{right: -50%;bottom: -50%;width: 75%;transform: translate(50%,0%);}
-.add #img1_1{animation-delay: 1s;animation-name: img1;}
+#img1_1{right: 50%;bottom: 50%;height:100%;transform: translate(-50%,-50%%);}
+#img1_3{right: -50%;bottom: -50%;width: 75%;transform: translate(50%,0%);}
+.add #img1_3{animation-delay: 1s;animation-name: img1;}
 @keyframes img1{
 from{right: -50%;bottom: -50%;opacity: 0;}
 to{right: 50%;bottom: 10%;opacity: 1;}
 }
-#img1_2{left: -50%;bottom: 0;width: 80%;transform: translate(-50%,0%);opacity: 0;}
-.add #img1_2{animation-delay: 0.5s;animation-name: img2;}
+
 @keyframes img2{
 from{left: -50%;bottom: 0;}
 to{left: 50%;bottom: 45%;opacity: 1;}
