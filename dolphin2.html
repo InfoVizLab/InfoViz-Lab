@@ -38,21 +38,25 @@ p{font-size: 1.2rem;line-height: 1.5rem;margin-bottom: 0.5rem;}
 #s4.add .text_style{position: relative;height: 100vh;z-index: 10;}
 #s4.add .text_style p:nth-child(1){position: absolute;top: 10%;left: 50%; width:100%;transform: translate(-50%,-50%);animation-delay: 0.5s;animation-name: text1;opacity: 0;}
 #s4.add .text_style p:nth-child(2){position: absolute;top: 20%;left: 50%;width:100%;transform: translate(-50%,-50%);animation-delay: 1s;animation-name: text1;opacity: 0;}
-#s4.add .text_style p:nth-child(3){position: absolute;top: 85%;left: 50%;width:100%;transform: translate(-50%,-50%);animation-delay: 1s;animation-name: text1;opacity: 0;}
+#s4.add .text_style p:nth-child(3){position: absolute;top: 85%;left: 50%;width:100%;transform: translate(-50%,-50%);animation-delay: 1.5s;animation-name: text1;opacity: 0;}
 #s5{background-image:url('/InfoViz-Lab/assets/images/new/5_1.png');}
 #s5.add .text_style{position: relative;height: 100vh;z-index: 10;}
 #s5.add .text_style p:nth-child(1){position: absolute;text-align: right;top: 10%;left: 40%; width:100%;transform: translate(-50%,-50%);animation-delay: 0.5s;animation-name: text1;opacity: 0;}
 #s5.add .text_style p:nth-child(2){position: absolute;text-align: right;top: 17%;left: 40%;width:100%;transform: translate(-50%,-50%);animation-delay: 1s;animation-name: text1;opacity: 0;}
-#s5.add .text_style p:nth-child(3){position: absolute;text-align: left;top: 30%;left: 60%;width:100%;transform: translate(-50%,-50%);animation-delay: 1s;animation-name: text1;opacity: 0;}
+#s5.add .text_style p:nth-child(3){position: absolute;text-align: left;top: 30%;left: 60%;width:100%;transform: translate(-50%,-50%);animation-delay: 1.5s;animation-name: text1;opacity: 0;}
 #s6{background-image:url('/InfoViz-Lab/assets/images/new/6_1.png');}
-#s6.add .text_style{position: absolute;top: 10%;z-index: 10;}
+#s6.add .text_style{position: absolute;top: 10%;z-index: 10;animation-delay: 0.5s;animation-name: text1;opacity: 0;}
 #s7{background-image:url('/InfoViz-Lab/assets/images/new/7_1.png');}
 #s7.add .text_style{position: relative;height: 100vh;z-index: 10;}
 #s7.add .text_style p:nth-child(1){position: absolute;top: 15%;left: 50%;width:100%;transform: translate(-50%,-50%);animation-delay: 0.5s;animation-name: text1;opacity: 0;}
 #s7.add .text_style p:nth-child(2){position: absolute;top: 40%;left: 50%;width:100%;transform: translate(-50%,-50%);animation-delay: 1s;animation-name: text1;opacity: 0;}
 #s7.add .text_style p:nth-child(3){position: absolute;top: 70%;left: 50%;width:100%;transform: translate(-50%,-50%);animation-delay: 1.5s;animation-name: text1;opacity: 0;}
 #s8{background-image:url('/InfoViz-Lab/assets/images/new/8_1.png');}
-#s8.add .text_style{position: absolute;top: 0;z-index: 10;color: #2d2929;}
+#s8.add .text_style{position: relative;height: 100vh;z-index: 10;}
+#s8.add .text_style p:nth-child(1){position: absolute;top: 15%;left: 50%;width:100%;transform: translate(-50%,-50%);animation-delay: 0.5s;animation-name: text1;opacity: 0;}
+#s8.add .text_style p:nth-child(2){position: absolute;top: 40%;left: 50%;width:100%;transform: translate(-50%,-50%);animation-delay: 1s;animation-name: text1;opacity: 0;}
+#s8.add .text_style p:nth-child(3){position: absolute;top: 70%;left: 50%;width:100%;transform: translate(-50%,-50%);animation-delay: 1.5s;animation-name: text1;opacity: 0;}
+#s8.add .text_style p:nth-child(4){position: absolute;top: 70%;left: 50%;width:100%;transform: translate(-50%,-50%);animation-delay: 1.5s;animation-name: text1;opacity: 0;}
 #s9{background-image:url('/InfoViz-Lab/assets/images/new/9_1.png');}
 #s10{background-image:url('/InfoViz-Lab/assets/images/new/10_1.png');}
 #s11{background-image:url('/InfoViz-Lab/assets/images/new/11_1.png');}
@@ -282,18 +286,16 @@ img{max-width: unset;}
         </div>
         <div id="s8" class="section page">
             <div class="text_style">
-                <p>자연에서 살기 어려운 돌고래들을 위해 바다 쉼터,</p>
-                <p style="margin-top: 10px;">즉, "생추어리"를 만드는 건 어떨까요?<br>전 세계 많은 나라들이<br>벌써 이런 생추어리를 운영하고 있어요.</p>
+                <p>사실 전 세계의 많은 나라들이<br>자연에서 살기 어려운 돌고래들을 위해</p>
+                <p>바다 쉼터, 즉 "생추어리"를 만들어 운영하고 있어요</p>
+                <p>예를 들어,<br>아이슬란드의 헤이메이섬에는 세계 최초의<br>벨루가 웨일을 위한 생추어리가 만들어졌고,</p>
+                <p>캐나다 서부에도<br>고래를 위한 생추어리가 조성될 예정이래요.</p>
             </div>
             <img src="/InfoViz-Lab/assets/images/new/8_2.png" id="img8_2" class="img_asu"><!--2생추어리틀-->
             <img src="/InfoViz-Lab/assets/images/new/8_3.png" id="img8_3" class="img_asu"><!--3벨루가-->
             <img src="/InfoViz-Lab/assets/images/new/8_4.png" id="img8_4" class="img_asu"><!--4돌고래-->
             <img src="/InfoViz-Lab/assets/images/new/8_5.png" id="img8_5" class="img_asu"><!--5미니돌고래-->
             <img src="/InfoViz-Lab/assets/images/new/8_6.png" id="img8_6" class="img_asu"><!--6미니벨루가-->
-            <div class="text_style">
-                <p>예를 들어,<br>아이슬란드의 헤이메이섬에는 세계 최초의<br>벨루가 웨일을 위한 생추어리가 만들어졌고,</p>
-                <p style="margin-top: 10px;">캐나다 서부에도<br>고래를 위한 생추어리가 조성될 예정이래요.</p>
-            </div>
         </div>
         <div id="s9" class="section page">
             <div class="text_style">
