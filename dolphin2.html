@@ -29,6 +29,10 @@ h2{/*font-family: 'Pretendard';*/font-size: 3rem;}
 p{font-size: 1.2rem;line-height: 1.5rem;margin-bottom: 0.5rem;}
 #s1{background-image:url('/InfoViz-Lab/assets/images/new/1_2.png');}
 #s1.add .text_style{position: absolute;top: 5%;z-index: 10;animation-delay: 1s;animation-name: text1;opacity: 0;}
+@keyframes text1{
+from{opacity: 0;}
+to{opacity: 1;}
+}
 #s2{background-image:url('/InfoViz-Lab/assets/images/new/2_1.png');}
 #s2.add .text_style{position: absolute;bottom: 0;z-index: 10;animation-delay: 1s;animation-name: text1;opacity: 0;}
 #s3{background-image:url('/InfoViz-Lab/assets/images/new/3_2.png');}
@@ -67,10 +71,6 @@ p{font-size: 1.2rem;line-height: 1.5rem;margin-bottom: 0.5rem;}
 @keyframes img1{
 from{left: -50%;bottom: -50%;opacity: 0;}
 to{left: 40%;bottom: 30%;opacity: 1;}
-}
-@keyframes text1{
-from{opacity: 0;}
-to{opacity: 1;}
 }
 #img2_2{left: 50%;top: 50%;height: 100%;z-index: 4;transform: translate(-50%,-50%);}
 #img2_3{left: 228%;top: 30%;height: 78%;z-index: 2;transform: translate(-50%,-50%);}
