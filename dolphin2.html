@@ -90,22 +90,25 @@ html, body {height: 100%;width: 100%;max-width: 650px;margin: 0 auto;position: r
 h2{font-family: 'Pretendard';font-size: 3rem;}
 p{font-size: 1.2rem;line-height: 1.5rem;margin-bottom: 0.5rem;}
 #s1{background-image:url('/InfoViz-Lab/assets/images/new/1_2.png');}
-#s1.add .text_style{position: absolute;top: 0;z-index: 10;animation-delay: 1s;animation-name: text1;}
+#s1.add .text_style{position: absolute;top: 5%;z-index: 10;animation-delay: 1s;animation-name: text1;}
 #s2{background-image:url('/InfoViz-Lab/assets/images/new/2_1.png');}
 #s2.add .text_style{position: absolute;bottom: 0;z-index: 10;}
 #s3{background-image:url('/InfoViz-Lab/assets/images/new/3_2.png');}
-#s3.add .text_style{position: absolute;top: 10%;z-index: 10;}
+#s3.add .text_style{position: absolute;top: 2%;z-index: 10;}
 #s4{background-image:url('/InfoViz-Lab/assets/images/new/4_1.png');}
-#s4.add .text_style{position: absolute;bottom: 10%;z-index: 10;}
+#s4.add .text_style{position: relative;height: 100vh;z-index: 10;}
+#s4.add .text_style p:nth-child(1){position: absolute;top: 10%;left: 50%; width:100%;transform: translate(-50%,-50%);animation-delay: 0.5s;animation-name: text1;}
+#s4.add .text_style p:nth-child(2){position: absolute;top: 10%;left: 50%;width:100%;transform: translate(-50%,-50%);animation-delay: 1s;animation-name: text1;}
+#s4.add .text_style p:nth-child(3){position: absolute;top: 10%;left: 50%;width:100%;transform: translate(-50%,-50%);animation-delay: 1s;animation-name: text1;}
 #s5{background-image:url('/InfoViz-Lab/assets/images/new/5_1.png');}
 #s5.add .text_style{position: absolute;top: 0;z-index: 10;}
 #s6{background-image:url('/InfoViz-Lab/assets/images/new/6_1.png');}
 #s6.add .text_style{position: absolute;top: 10%;z-index: 10;}
 #s7{background-image:url('/InfoViz-Lab/assets/images/new/7_1.png');}
-#s7.add .text_style{position: relative;height: 100vh;}
-#s7.add .text_style p:nth-child(1){position: absolute;top: 15%;z-index: 10;left: 50%;width:100%;transform: translate(-50%,-50%);animation-delay: 0.5s;animation-name: text1;}
-#s7.add .text_style p:nth-child(2){position: absolute;top: 40%;z-index: 10;left: 50%;width:100%;transform: translate(-50%,-50%);animation-delay: 1s;animation-name: text1;}
-#s7.add .text_style p:nth-child(3){position: absolute;top: 70%;z-index: 10;left: 50%;width:100%;transform: translate(-50%,-50%);animation-delay: 1.5s;animation-name: text1;}
+#s7.add .text_style{position: relative;height: 100vh;z-index: 10;}
+#s7.add .text_style p:nth-child(1){position: absolute;top: 15%;left: 50%;width:100%;transform: translate(-50%,-50%);animation-delay: 0.5s;animation-name: text1;}
+#s7.add .text_style p:nth-child(2){position: absolute;top: 40%;left: 50%;width:100%;transform: translate(-50%,-50%);animation-delay: 1s;animation-name: text1;}
+#s7.add .text_style p:nth-child(3){position: absolute;top: 70%;left: 50%;width:100%;transform: translate(-50%,-50%);animation-delay: 1.5s;animation-name: text1;}
 #s8{background-image:url('/InfoViz-Lab/assets/images/new/8_1.png');}
 #s8.add .text_style{position: absolute;top: 0;z-index: 10;color: #2d2929;}
 #s9{background-image:url('/InfoViz-Lab/assets/images/new/9_1.png');}
@@ -301,8 +304,9 @@ img{max-width: unset;}
         </div>
         <div id="s4" class="section page">
             <div class="text_style">
-                <p>한국으로 온 돌고래들은 과연 어떤 삷을 살고 있을까요?</p>
-                <p>자연애서 자유롭게 살아가는 돌고래들은 보통 40년은 살아요.<br>그런데 수족관에 있는 친구들은 평균 10년도 못채우고 있어요.</p>
+                <p>한국으로 온 돌고래들은<br>과연 어떤 삷을 살고 있을까요?</p>
+                <p>자연애서 자유롭게 살아가는 돌고래들은<br>보통 40년은 살아요.</p>
+                <p>그런데 수족관에 있는 친구들은<br>평균 10년도 못채우고 있어요.</p>
             </div>
             <img src="/InfoViz-Lab/assets/images/new/4_2.png" id="img4_2" class="img_asu"><!--표-->
         </div>
