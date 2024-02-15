@@ -26,4 +26,12 @@ comments: true
         <img src="{{site.baseurl}}/assets/images/dolphin.png" style="width:48%;display:inline-block;"/>
         <a href="https://infovizlab.github.io/InfoViz-Lab/dolphin2.html" target="_blank" style="margin-left:2%;width:48%;display:inline-block;background-color:#000;text-align:center;color:#fff;font-weight:bold;">2안</a>
     </div>
+    <div style="margin-top:10px;">
+        <img src="{{site.baseurl}}/assets/images/dolphin.png" style="width:48%;display:inline-block;"/>
+        <a href="https://infovizlab.github.io/InfoViz-Lab/dolphin3.html" target="_blank" style="margin-left:2%;width:48%;display:inline-block;background-color:#000;text-align:center;color:#fff;font-weight:bold;">3안</a>
+    </div>
+    <div style="margin-top:10px;">
+        <img src="{{site.baseurl}}/assets/images/dolphin.png" style="width:48%;display:inline-block;"/>
+        <a href="https://infovizlab.github.io/InfoViz-Lab/dolphin4.html" target="_blank" style="margin-left:2%;width:48%;display:inline-block;background-color:#000;text-align:center;color:#fff;font-weight:bold;">4안</a>
+    </div>
 </div>
