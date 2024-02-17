@@ -87,7 +87,7 @@ to{opacity: 1;}
 .section{height: 100vh;background-repeat: no-repeat;background-position: center;background-size: cover;}
 .img_asu{position: absolute;}
 .add.page img{animation: bubble 2s ease; animation-fill-mode: forwards;}
-.add.page .text_style, .add.page .text_style p, .add.page .text_style a, .pagination>li, .researchbtn {animation: bubble 1s ease; animation-fill-mode: forwards;}
+.add.page .text_style, .add.page .text_style p, .add.page .text_style a, .pages:has(.page.add:last-child) + .pagination > li:first-child, .add .researchbtn {animation: bubble 1s ease; animation-fill-mode: forwards;}
 .graph{z-index: 6;position: absolute;background-color: rgb(255,255,255,0.5);width: 80%;transform: translate(-50%, 0);}
 .graph img{width:100%;}
 #img1_1{left: 50%;top: 50%;height:100%;transform: translate(-50%,-50%);z-index: 3;}
