@@ -95,6 +95,7 @@ p{font-size: 0.8rem;line-height: 1rem;margin-bottom: 0.5rem;}
 #img11_3{left: 39%;top: 23%;z-index: 4;width: 10%;transform: translate(-50%,-50%);}
 #img11_4{left: 45%;top: 18%;z-index: 4;width: 8%;transform: translate(-50%,-50%);}
 #img11_5{left: 35%;top: 13%;z-index: 4;width: 6%;transform: translate(-50%,-50%);}
+.pages:has(.page.add:last-child) + .pagination > li:first-child, .add .researchbtn {animation: bubble 1s ease; animation-fill-mode: forwards;}
 /* .replaybtn{position: absolute;bottom: 11%;text-align:center;left: 50%;transform: translate(-50%,0%);z-index: 10;color: #333;font-size: 1rem;border: 1px solid #fff;background-color: #fff; line-height: 1rem;vertical-align: middle;padding: 10px;border-radius: 7px;width: 50%;} */
 .researchbtn{opacity: 0; position: absolute;bottom: 5%;text-align:center;left: 50%;transform: translate(-50%,0%);z-index: 10;color: #333;font-size: 1rem;border: 1px solid #fff;background-color: #fff;line-height: 1rem;height:40px;vertical-align: middle;padding: 10px;border-radius: 7px;width: 50%;max-width: 320px;}
 /* .replaybtn:hover{border-color: #000;color: #000;bottom: 7%;} */
@@ -119,7 +120,6 @@ img{max-width: unset;}
 .pagination>li.active {background: #ffffff;}
 .pagination>li:first-child{color: #333;font-size: 1rem;border: 1px solid #fff;background-color: #fff;vertical-align: middle;padding: 10px 0;border-radius: 7px;width: 100%;max-width:320px;height: 40px;margin: 0;}
 .pagination>li:first-child:after{content: "다시보기";color: #000;display: block;line-height: 1rem;}
-.pages:has(.page.add:last-child) + .pagination > li:first-child, .add .researchbtn {animation: bubble 1s ease; animation-fill-mode: forwards;}
 @keyframes img11_1{
 from{opacity: 0;}
 to{opacity: 1;}
