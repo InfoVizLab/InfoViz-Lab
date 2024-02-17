@@ -37,6 +37,17 @@ window.onload = () => {
       }
     }
 
+    const clickReplay = () =>{
+      slides = pages.children;
+      count = slides.length;
+      for(let i = 0; i < count; 1) {
+        slides[1].style.bottom = -(1 * 100) + '%';
+        let btnup = document.createElement('.replaybtn');
+        btnup.dataset.slide = i;
+        btnup.addEventListener('click', btnClick)
+      }
+    }
+
     const gotoNext = () => current < count - 1 ? gotoNum(current + 1) : false;
     const gotoPrev = () => current > 0 ? gotoNum(current - 1) : false;
     const btnClick = (e) => gotoNum(parseInt(e.target.dataset.slide));
@@ -51,3 +62,4 @@ window.onload = () => {
   let pagination = document.querySelector('.pagination');
   let slider = new Slider(pages, pagination)
 }
+
