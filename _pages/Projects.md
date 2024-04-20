@@ -12,7 +12,7 @@ comments: true
         <a href="{{ site.baseurl }}/001">
             <div class="row">
                 <div class="col-12 col-md-12 col-lg-3 pr-lg-0">
-                    <img class="" src="{{site.baseurl}}/assets/images/data23-02.jpg" alt="2023.06.30" />
+                    <img class="" src="{{site.baseurl}}/assets/images/Thumb/01Thumb.jpg" alt="2023.06.30" />
                 </div>
                 <div class="col-12 col-md-12 col-lg-9">
                     <b>Analysis of Dashboard Design Patterns of Infectious Diseases in Korea</b>
