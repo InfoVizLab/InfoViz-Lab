@@ -18,6 +18,7 @@ comments: true
                     <b>Analysis of Dashboard</b>
                     <b>감염병대시보드</b>
                     <p>Analysis of Dashboard Design Patterns of Infectious Diseases in Korea</p>
+                    <p>국내 감염병 현황 대시보드 디자인 패턴 분석</p>
                     <p>2023.06.30</p>
                 </div>
             </div>
