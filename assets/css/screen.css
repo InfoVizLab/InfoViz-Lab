@@ -189,7 +189,8 @@ iframe {max-width: 100%;}
 .index_top{display: none;}
 .lead {font-size: 0.95rem;line-height: 1.2rem;}
 .databox {margin-bottom: 20px;padding: 1rem;border: 1px solid #ddd;border-radius: 0.3rem;}
-.databox b{display: block;margin-bottom: 1rem;}
+.databox b{display: block;margin-bottom: 0;}
+.databox b:last-child{margin-bottom: 1rem;}
 .databox a{color:#000;}
 .databox a img{width:100%;}
 .layout-page .article-post .databox p{line-height: 1.5rem;font-weight: 300;font-size: 0.9rem;}
