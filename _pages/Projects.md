@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Data Humanism
-permalink: /data_humanism
+title: Projects
+permalink: /Projects
 comments: true
 ---
 
