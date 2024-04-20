@@ -27,7 +27,7 @@ comments: true
         <a href="{{ site.baseurl }}/02_20230930">
             <div class="row">
                 <div class="col-12 col-md-12 col-lg-3 pr-lg-0">
-                    <img class="" src="{{site.baseurl}}/assets/images/data23-02.jpg" alt="" />
+                    <img class="" src="{{site.baseurl}}/assets/images/data23-02.jpg" alt="2023.09.30" />
                 </div>
                 <div class="col-12 col-md-12 col-lg-9">
                     <b>Warning Pictogram</b>
@@ -39,7 +39,7 @@ comments: true
             </div>
         </a>
     </div>
-    <div class="databox data_03">
+    <div class="databox data_03" style="display:none;">
         <a href="{{ site.baseurl }}/01_interactive_web">
             <div class="row">
                 <div class="col-12 col-md-12 col-lg-3 pr-lg-0">
