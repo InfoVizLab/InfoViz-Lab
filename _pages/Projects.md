@@ -12,6 +12,19 @@ comments: true
         <a href="{{ site.baseurl }}/001">
             <div class="row">
                 <div class="col-12 col-md-12 col-lg-3 pr-lg-0">
+                    <img class="" src="{{site.baseurl}}/assets/images/data23-02.jpg" alt="2023.06.30" />
+                </div>
+                <div class="col-12 col-md-12 col-lg-9">
+                    <b>Analysis of Dashboard Design Patterns of Infectious Diseases in Korea</b>
+                    <p>2023.06.30</p>
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="databox data_02">
+        <a href="{{ site.baseurl }}/002">
+            <div class="row">
+                <div class="col-12 col-md-12 col-lg-3 pr-lg-0">
                     <img class="" src="{{site.baseurl}}/assets/images/data23-02.jpg" alt="" />
                 </div>
                 <div class="col-12 col-md-12 col-lg-9">
@@ -21,7 +34,7 @@ comments: true
             </div>
         </a>
     </div>
-    <div class="databox data_02" style="display:none;">
+    <div class="databox data_03">
         <a href="{{ site.baseurl }}/01_interactive_web">
             <div class="row">
                 <div class="col-12 col-md-12 col-lg-3 pr-lg-0">
