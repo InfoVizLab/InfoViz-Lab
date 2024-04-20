@@ -9,7 +9,7 @@ comments: true
 <div class="mb-30px">
     <h4>2023</h4>
     <div class="databox data_01">
-        <a href="{{ site.baseurl }}/001">
+        <a href="{{ site.baseurl }}/01_20230630">
             <div class="row">
                 <div class="col-12 col-md-12 col-lg-3 pr-lg-0">
                     <img class="" src="{{site.baseurl}}/assets/images/Thumb/01Thumb.jpg" alt="2023.06.30" />
