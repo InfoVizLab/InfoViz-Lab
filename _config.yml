@@ -5,40 +5,49 @@ description: "Research on data according to the visual response of web pages, Ha
 logo: 'assets/images/InfoViz+Lab-logo.png'
 favicon: 'assets/images/favicon.png'
 baseurl: /InfoViz-Lab
-google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
+google_analytics: ''
+disqus: 'researchwebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
 
 # Projects
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
+  MJ:
+    name: Minjeong kim
+    display_name: minjeong kim
+    gravatar: #e56154546cf4be74e393c62d1ae9f9d4
+    email: #wowthemesnet@gmail.com
+    web: #https://www.wowthemes.net
+    twitter: #https://twitter.com/wowthemesnet
+    description: #"Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+  SI:
+    name: Sangim Lee
+    display_name:     
     avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
-  john2:
-    name: John2
-    display_name: John2    
+    gravatar: #b1cc14991db7a456fcd761680bbc8f81
+    email: #wowthemesnet@gmail.com
+    web: #https://www.wowthemes.net
+    twitter: #https://twitter.com/wowthemesnet
+    description: #"This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+  HK:
+    name: Hokyeong Lee
+    display_name: Hokyeong Lee    
     avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    gravatar: #b1cc14991db7a456fcd761680bbc8f81
+    email: #wowthemesnet@gmail.com
+    web: #https://www.wowthemes.net
+    twitter: #https://twitter.com/wowthemesnet
+    description: #"You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+  JS:
+    name: Jaeseon Go
+    display_name: Jaeseon Go    
+    avatar: 'assets/images/avatar.png'
+    gravatar: #b1cc14991db7a456fcd761680bbc8f81
+    email: #wowthemesnet@gmail.com
+    web: #https://www.wowthemes.net
+    twitter: #https://twitter.com/wowthemesnet
+    description: #"You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
 
 # Plugins
 plugins:
