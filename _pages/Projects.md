@@ -51,7 +51,7 @@ comments: true
                     <b>데이터 시각화 공감측정</b>
                     <p>Analysis of User Empathy Levels Based on Types of DataVisualization</p>
                     <p>데이터 시각화 유형에 따른 수용자 공감 수준 분석</p>
-                    <p>2023.09.30</p>
+                    <p>2023.12.30</p>
                 </div>
             </div>
         </a>
