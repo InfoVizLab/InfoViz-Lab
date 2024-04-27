@@ -4,7 +4,7 @@ title: People
 permalink: /people
 comments: true
 ---
-
+<style>.layout-page .article-post p:last-child{margin-bottom:0;}</style>
 <div class="justify-content-between">
 <p>Those who participated in the project</p>
     <div class="row">
