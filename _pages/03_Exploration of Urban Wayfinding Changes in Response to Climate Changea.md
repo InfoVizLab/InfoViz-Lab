@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Exploration of Urban Wayfinding Changes in Response to Climate Change
-permalink: /04_Exploration of Urban Wayfinding Changes in Response to Climate Change
+permalink: /03_Exploration of Urban Wayfinding Changes in Response to Climate Change
 comments: true
 ---
 

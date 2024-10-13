@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dashboard Design Patterns of Infectious Diseases in Korea
-permalink: /05_Dashboard Design Patterns of Infectious Diseases in Korea
+permalink: /04_Dashboard Design Patterns of Infectious Diseases in Korea
 comments: true
 ---
 
