@@ -25,7 +25,7 @@ comments: true
         <a href="{{ site.baseurl }}/02_A Study on the Guidelines for Data Humanism Visualization That Elicits Empathy">
             <div class="row">
                 <div class="col-12 col-md-12 col-lg-3 pr-lg-0">
-                    <img class="" src="{{site.baseurl}}/assets/images/Thumb/02Thumb.jpg" alt="2023.09.30" />
+                    <img class="" src="{{site.baseurl}}/assets/images/Thumb/03Thumb.jpg" alt="2023.12.30" />
                 </div>
                 <div class="col-12 col-md-12 col-lg-9">
                     <b>데이터 시각화 유형에 따른 수용자 공감 수준 분석 </b>
