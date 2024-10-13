@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 20230930_Warning Pictogram
-permalink: /04_20230930
+title: Exploration of Urban Wayfinding Changes in Response to Climate Change
+permalink: /04_Exploration of Urban Wayfinding Changes in Response to Climate Change
 comments: true
 ---
 
@@ -9,7 +9,10 @@ comments: true
     <div class="col-md-12">
         <div style="margin-bottom:1rem;">
             <img src="{{site.baseurl}}/assets/images/Thumb/02Thumb_1.jpg" alt="Thumb02" />
-            <p style="margin-bottom:0.3rem;">A study on the Visualization Characteristics ‘Warning Pictogram’ for climate disaster guidance</p>
+            <p style="margin-bottom:0.3rem;">기후 변화에 대한 도시 웨이파인딩 변화 고찰</p>
+            <div style="border:1px solid #ddd; padding:1rem;margin:1rem;border-radius:10px;">
+                <b>A study on the Visualization Characteristics ‘Warning Pictogram’ for climate disaster guidance</b>
+            </div>
         </div>
         <div>
             <h5 style="margin-bottom:0.5rem;">The final thesis</h5>

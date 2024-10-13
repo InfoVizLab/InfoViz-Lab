@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 20230630_Analysis of Dashboard Design Pattern
-permalink: /05_20230630
+title: Dashboard Design Patterns of Infectious Diseases in Korea
+permalink: /05_Dashboard Design Patterns of Infectious Diseases in Korea
 comments: true
 ---
 

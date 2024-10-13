@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 20231230_Empathy level
-permalink: /03_20231230
+title: An Analysis of the Design Status of Subscription Blog-Type Homepage Based on Google’s Serch Engine Optimization
+permalink: /05_An Analysis of the Design Status of Subscription Blog-Type Homepage Based on Google’s Serch Engine Optimization
 comments: true
 ---
 
