@@ -9,7 +9,7 @@ comments: true
 <div class="mb-30px">
     <h4>2023</h4>
     <div class="databox data_01">
-        <a href="{{ site.baseurl }}/01_Analysis of User Empathy Levels Based on Types of Data Visualization">
+        <a href="{{ site.baseurl }}/01_A Study on the Guidelines for Data Humanism Visualization That Elicits Empathy">
             <div class="row">
                 <div class="col-12 col-md-12 col-lg-3 pr-lg-0">
                     <img class="" src="{{site.baseurl}}/assets/images/Thumb/01Thumb.jpg" alt="2023.06.30" />
@@ -22,7 +22,7 @@ comments: true
         </a>
     </div>
     <div class="databox data_02">
-        <a href="{{ site.baseurl }}/02_A Study on the Guidelines for Data Humanism Visualization That Elicits Empathy">
+        <a href="{{ site.baseurl }}/02_Analysis of User Empathy Levels Based on Types of Data Visualization">
             <div class="row">
                 <div class="col-12 col-md-12 col-lg-3 pr-lg-0">
                     <img class="" src="{{site.baseurl}}/assets/images/Thumb/03Thumb.jpg" alt="2023.12.30" />
