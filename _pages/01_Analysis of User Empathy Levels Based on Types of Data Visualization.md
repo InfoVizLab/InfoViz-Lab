@@ -8,7 +8,7 @@ comments: true
 <div class="row justify-content-between" style="">
     <div class="col-md-12">
         <div style="margin-bottom:1rem;">
-            <img src="{{site.baseurl}}/assets/images/Thumb/03Thumb_2.png" alt="Thumb03" />
+            <img src="{{site.baseurl}}/assets/images/Thumb/dolphin_thumb.jpg" alt="Thumb_dolphin" />
             <p style="margin-bottom:1rem;">데이터 시각화 유형에 따른 수용자 공감 수준 분석</p>
             <div class="exbox">
     <div>
