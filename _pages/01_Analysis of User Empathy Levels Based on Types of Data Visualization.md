@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Analysis of User Empathy Levels Based on Types of Data Visualization
-permalink: /01_Analysis of User Empathy Levels Based on Types of Data Visualization
+title: A Study on the Guidelines for Data Humanism Visualization That Elicits Empathy
+permalink: /01_A Study on the Guidelines for Data Humanism Visualization That Elicits Empathy
 comments: true
 ---
 
