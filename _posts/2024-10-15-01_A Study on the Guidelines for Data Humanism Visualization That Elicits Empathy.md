@@ -23,7 +23,7 @@ hidden: false
                 <P>This study continues the 'Guidelines for Empathy-Inducing Data Humanism Visualization' project from 2022, which used suicide data to measure empathy through graphs, isotypes, illustrations, and infographics. Realistic illustrations elicited the most empathy, but the study faced criticism for emotional provocation and design complexity. In this follow-up, the focus shifted to broader social and cultural issues, reducing design variables to explore humanistic strategies in data visualization. The study examined how linguistic style (formal/informal) and website type (static/dynamic) influenced empathy through a dolphin captivity narrative. Results showed that dynamic images and informal language improved topic recognition and increased empathy. This research highlights how data visualization can go beyond information delivery to engage emotions, promoting public awareness and potential policy changes.</P>
             </div>
             
-            <div class="exbox">
+            <div class="exbox" style="display:none;">
     <div>
         <img src="{{site.baseurl}}/assets/images/dolphin.png" style="width:48%;display:inline-block;"/>
         <a href="https://infovizlab.github.io/InfoViz-Lab/dolphin1.html" target="_blank" style="margin-left:2%;width:48%;display:inline-block;background-color:#000;text-align:center;color:#fff;font-weight:bold;">1안</a>
