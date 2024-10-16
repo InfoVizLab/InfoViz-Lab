@@ -17,12 +17,11 @@ hidden: false
 ---
 
 
-재난경고픽토그램시각화
+공감을 이끌어내는 데이터 휴머니즘 시각화 가이드라인 연구 -동적 요소와 문체를 중심으로-
 
 <div class="row justify-content-between" style="">
     <div class="col-md-12">
         <div style="margin-bottom:1rem;">
-            <img src="{{site.baseurl}}/assets/images/Thumb/dolphin_thumb.jpg" alt="Thumb_dolphin" />
             <p style="margin-bottom:1rem;">공감을 이끌어내는 데이터 휴머니즘 시각화 가이드라인 연구 -동적 요소와 문체를 중심으로-</p>
             <div style="border:1px solid #ddd; padding:1rem;margin:1rem 0;border-radius:10px;">
                 <b>A Study on the Guidelines for Data Humanism Visualization That Elicits Empathy-Focusing on Dynamic Elements and Style of Language</b>
