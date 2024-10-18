@@ -3,7 +3,7 @@ layout: post
 title:  "A Study on the Guidelines for Data Humanism Visualization That Elicits Empathy"
 author: kim
 image: assets/images/Thumb/dolphin_thumb.jpg
-imgthum: assets/images/Thumb/02Thumb_1.jpg
+imgthum: assets/images/data23-02.jpg
 description: "A study on the Visualization Characteristics ‘Warning Pictogram’ for climate disaster guidance"
 featured: true
 hidden: false
