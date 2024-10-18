@@ -9,7 +9,6 @@ featured: true
 hidden: false
 ---
 
-
 구글의 검색 엔진 최적화를 바탕으로 구독 기반 블로그형 홈페이지의 디자인 현황 분석
 
 <div class="row justify-content-between" style="">
