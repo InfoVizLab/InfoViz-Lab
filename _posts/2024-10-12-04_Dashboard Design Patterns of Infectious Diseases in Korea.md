@@ -9,7 +9,7 @@ featured: true
 hidden: false
 ---
 
-기후 변화에 대한 도시 웨이파인딩 변화 고찰국내 감염병 현황 대시보드 디자인 패턴 분석
+국내 감염병 현황 대시보드 디자인 패턴 분석
 
 <div class="row justify-content-between" style="">
     <div class="col-md-12">
