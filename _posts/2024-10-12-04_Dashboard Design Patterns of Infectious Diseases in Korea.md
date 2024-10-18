@@ -21,7 +21,7 @@ hidden: false
         </div>
         <div>
             <h5 style="margin-bottom:0.5rem;">The final thesis</h5>
-            <a href="/pdf_file/Analysis of Dashboard.pdf">다운로드</a>
+            <a href="/pdf_file/Analysis of Dashboard.pdf" download>다운로드</a>
         </div>
     </div>
 </div>
