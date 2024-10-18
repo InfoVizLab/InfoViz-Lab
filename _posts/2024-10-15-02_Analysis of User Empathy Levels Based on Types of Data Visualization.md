@@ -9,8 +9,7 @@ featured: true
 hidden: false
 ---
 
-
-공감을 이끌어내는 데이터 휴머니즘 시각화 가이드라인 연구 -동적 요소와 문체를 중심으로-
+데이터 시각화 유형에 따른 수용자 공감 수준 분석
 
 <div class="row justify-content-between" style="">
     <div class="col-md-12">
