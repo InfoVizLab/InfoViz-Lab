@@ -10,6 +10,7 @@ hidden: false
 ---
 
 ##### Absrtact
+
 국내 감염병 현황 대시보드 디자인 패턴 분석
 
 <div class="row justify-content-between" style="">
