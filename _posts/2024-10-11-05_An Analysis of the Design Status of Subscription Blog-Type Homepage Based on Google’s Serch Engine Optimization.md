@@ -1,11 +1,11 @@
 
 ---
 layout: post
-title:  "An Analysis of the Design Status of Subscription Blog-Type Homepage Based on Google’s Serch Engine Optimization"
+title:  "An Analysis of the Design Status of Subscription Blog-Type Homepage Based on Googles Serch Engine Optimization"
 author: kim
 image: assets/images/Thumb/02Thumb.jpg
 imgthum: assets/images/Thumb/02Thumb_1.jpg
-description: "An Analysis of the Design Status of Subscription Blog-Type Homepage Based on Google’s Serch Engine Optimization"
+description: "An Analysis of the Design Status of Subscription Blog-Type Homepage Based on Googles Serch Engine Optimization"
 featured: true
 hidden: false
 ---
