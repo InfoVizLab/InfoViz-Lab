@@ -3,7 +3,8 @@ layout: post
 title:  "Dashboard Design Patterns of Infectious Diseases in Korea"
 author: kim
 image: assets/images/Thumb/01Thumb.jpg
-imgthum: assets/images/Thumb/01Thumb_1.png
+imgthum: assets/images/Thumb/01Thumb_5.png
+imgthum_m: assets/images/Thumb/01Thumb_5_m.jpg
 description: "Dashboard Design Patterns of Infectious Diseases in Korea"
 featured: true
 hidden: false
