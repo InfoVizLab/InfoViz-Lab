@@ -6,9 +6,8 @@ comments: true
 ---
 
 <div class="mb-30px">
-    <h4>2023</h4>
     <div class="databox data_01">
-        <a href="{{ site.baseurl }}/01_A Study on the Guidelines for Data Humanism Visualization That Elicits Empathy">
+        <a href="{{ site.baseurl }}/01_A-Study-on-the-Guidelines-for-Data-Humanism-Visualization-That-Elicits-Empathy">
             <div class="row">
                 <div class="col-12 col-md-12 col-lg-3 pr-lg-0">
                     <img class="" src="{{site.baseurl}}/assets/images/Thumb/01Thumb.jpg" alt="2023.06.30" />
@@ -21,7 +20,7 @@ comments: true
         </a>
     </div>
     <div class="databox data_02">
-        <a href="{{ site.baseurl }}/02_Analysis of User Empathy Levels Based on Types of Data Visualization">
+        <a href="{{ site.baseurl }}/02_Analysis-of-User-Empathy-Levels-Based-on-Types-of-Data-Visualization">
             <div class="row">
                 <div class="col-12 col-md-12 col-lg-3 pr-lg-0">
                     <img class="" src="{{site.baseurl}}/assets/images/Thumb/03Thumb.jpg" alt="2023.12.30" />
@@ -34,7 +33,7 @@ comments: true
         </a>
     </div>
     <div class="databox data_03">
-        <a href="{{ site.baseurl }}/03_Exploration of Urban Wayfinding Changes in Response to Climate Change">
+        <a href="{{ site.baseurl }}/03_Exploration-of-Urban-Wayfinding-Changes-in-Response-to-Climate-Change">
             <div class="row">
                 <div class="col-12 col-md-12 col-lg-3 pr-lg-0">
                     <img class="" src="{{site.baseurl}}/assets/images/Thumb/02Thumb.jpg" alt="2023.09.30" />
@@ -47,7 +46,7 @@ comments: true
         </a>
     </div>
     <div class="databox data_04">
-        <a href="{{ site.baseurl }}/04_Dashboard Design Patterns of Infectious Diseases in Korea">
+        <a href="{{ site.baseurl }}/04_Dashboard-Design-Patterns-of-Infectious-Diseases-in-Korea">
             <div class="row">
                 <div class="col-12 col-md-12 col-lg-3 pr-lg-0">
                     <img class="" src="{{site.baseurl}}/assets/images/Thumb/01Thumb.jpg" alt="2023.06.30" />
@@ -60,7 +59,7 @@ comments: true
         </a>
     </div>
     <div class="databox data_05">
-        <a href="{{ site.baseurl }}/05_An Analysis of the Design Status of Subscription Blog-Type Homepage Based on Google’s Serch Engine Optimization">
+        <a href="{{ site.baseurl }}/05_An-Analysis-of-the-Design-Status-of-Subscription-Blog-Type-Homepage-Based-on-Google’s-Serch-Engine-Optimization">
             <div class="row">
                 <div class="col-12 col-md-12 col-lg-3 pr-lg-0">
                     <img class="" src="{{site.baseurl}}/assets/images/Thumb/03Thumb.jpg" alt="2023.12.30" />
