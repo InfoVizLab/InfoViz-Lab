@@ -170,6 +170,7 @@ iframe {max-width: 100%;}
 .table_basic{margin: 0 auto;}
 .table_basic tr th,.table_basic tr td{border: 1px solid #aaa;padding: 10px;text-align: center;}
 .table_basic tr td img{width: 100%;margin:20px auto;}
+a.link_btn{background-color: #00ab6b;padding: 10px;display: block;margin: 20px auto;max-width: 150px;color: #fff;text-align: center;border-radius: 10px;}
 
 @media (min-width:768px) {
     .jumbotron.fortags {margin-bottom: -50px;margin-top: 3rem;padding: 0;height: 350px;border-radius: 0;background-image: url(../images/jumbotron.jpg);background-size: cover;}
