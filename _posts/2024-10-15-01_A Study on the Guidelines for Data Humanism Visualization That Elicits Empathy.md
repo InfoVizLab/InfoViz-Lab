@@ -73,7 +73,7 @@ hidden: false
                         .table_title{text-align:center;padding:10px;}
                         .table_img{padding:10px;}
                     </style>
-                    <div class="table_made">
+                    <!-- <div class="table_made">
                         <div class="table_cell">
                             <div class="table_title">1.Main Page</div>
                             <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/1.png"></div>
@@ -106,7 +106,7 @@ hidden: false
                             <div class="table_title">1.Main Page</div>
                             <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/1.png"></div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
                 <div style="margin:20px auto;">
                     <b>3. Empathy Level Results</b>
