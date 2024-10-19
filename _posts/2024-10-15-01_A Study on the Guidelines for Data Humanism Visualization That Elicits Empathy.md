@@ -75,35 +75,35 @@ hidden: false
                         <div class="table_cell">
                             <div class="table_title">1.Main Page</div>
                             <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/1.png"></div>
-                        <div>
+                        </div>
                         <div class="table_cell">
                             <div class="table_title">1.Main Page</div>
                             <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/1.png"></div>
-                        <div>
+                        </div>
                         <div class="table_cell">
                             <div class="table_title">1.Main Page</div>
                             <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/1.png"></div>
-                        <div>
+                        </div>
                         <div class="table_cell">
                             <div class="table_title">1.Main Page</div>
                             <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/1.png"></div>
-                        <div>
+                        </div>
                         <div class="table_cell">
                             <div class="table_title">1.Main Page</div>
                             <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/1.png"></div>
-                        <div>
+                        </div>
                         <div class="table_cell">
                             <div class="table_title">1.Main Page</div>
                             <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/1.png"></div>
-                        <div>
+                        </div>
                         <div class="table_cell">
                             <div class="table_title">1.Main Page</div>
                             <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/1.png"></div>
-                        <div>
+                        </div>
                         <div class="table_cell">
                             <div class="table_title">1.Main Page</div>
                             <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/1.png"></div>
-                        <div>
+                        </div>
                     </div>
                 </div>
                 <div style="margin:20px auto;">
