@@ -4,6 +4,7 @@ title:  "Exploration of Urban Wayfinding Changes in Response to Climate Change"
 author: kim
 image: assets/images/Thumb/02Thumb.jpg
 imgthum: assets/images/Thumb/02Thumb_1.jpg
+imgthum_m: assets/images/Thumb/02Thumb_1_m.jpg
 description: "Exploration of Urban Wayfinding Changes in Response to Climate Change"
 featured: true
 hidden: false
