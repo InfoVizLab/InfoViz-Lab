@@ -22,14 +22,14 @@ hidden: false
             <div style="border:1px solid #ddd; padding:1rem;margin:1rem 0;border-radius:10px;">
                 <h5>Research Process</h5>
                 <div>
-                    <img src="/assets/images/sketch.jpg">
                     <b>1. Data Selection and Visualization Strategy</b>
                     <P>In the first study conducted in 2023, the use of suicide data was criticized for excessively triggering emotional responses. Consequently, this research deliberately excluded human data and focused on social and environmental issues. The research team selected the theme of animal abuse and the controversy surrounding zoo closures, specifically concentrating on dolphin-related data. The study collected data on dolphin capture, life in aquariums, causes of death, and conservation efforts, which were incorporated into a storytelling structure for a responsive website. The website emphasizes the life of dolphins and encourages public actions for their protection, utilizing graphs and diagrams to visually convey key information.</p>
+                    <img src="/assets/images/sketch.jpg">
                 </div>
                 <div>
-                    <img src="/assets/images/sketch.jpg">
                     <b>2. Design Prototype & Survey</b>
                     <P>  This study analyzes the impact of design elements in data visualization on user empathy, specifically examining how dynamic elements like parallax scrolling and differences in writing style (formal vs. informal) affect users' cognitive and emotional responses. To investigate this, the study designed four types of data visualizations. The first type (A) is a static image visualization written in a formal news style, while the second type (B) uses a static image with a first-person, informal style. The third type (C) is a data visualization in a formal news style, incorporating the parallax scrolling technique, and the fourth type (D) combines an informal style with parallax scrolling. All visualizations present the same content, but each design differs based on the inclusion of dynamic elements and writing style.</p>
+                    <img src="/assets/images/sketch.jpg">
                 </div>
                 </P>
             </div>
