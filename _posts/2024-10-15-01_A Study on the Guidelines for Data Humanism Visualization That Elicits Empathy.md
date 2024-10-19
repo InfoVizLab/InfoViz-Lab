@@ -57,7 +57,7 @@ hidden: false
                                     <td><img src="/InfoViz-Lab/assets/images/miniimage/11.png"></td>
                                 </tr>
                             </tbody>
-                        <table>
+                        </table>
                     </div>
                     <img src="/InfoViz-Lab/assets/images/sketch.jpg">
                 </div>
