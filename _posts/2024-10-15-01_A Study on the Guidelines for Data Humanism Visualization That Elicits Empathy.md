@@ -68,8 +68,8 @@ hidden: false
                     "  target='_blank' class="link_btn">Research link</a>
                     <style>
                         .table_made{width:100%;}
-                        .table_cell{display:inline-block;width:calc(100% / 4);border:1px solid #ddd;border-right:none;border-bottom:none;margin-left:-5px;}
-                        .table_cell:nth-child(4n){border-right:1px solid #ddd;}
+                        .table_cell{display:inline-block;width:calc(100% / 4);border:1px solid #ddd;margin-left:-5px;}
+                        .table_cell:nth-child(4n){}
                         .table_title{text-align:center;padding:10px;}
                         .table_img{padding:10px;}
                     </style>
