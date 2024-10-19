@@ -66,7 +66,7 @@ hidden: false
                     <a href="https://docs.google.com/forms/d/e/1FAIpQLSetEU7rrfFxDau8dh2hQ-TGsATpHY6BCKhMElI-7VjGW0cFOQ/viewform?fbzx=1248273200252158058
                     ">Research link</a>
                 </div>
-                <div style="border-bottom:1px solid #ddd;margin:10px auto;">
+                <div style="margin:10px auto;">
                     <b>3. Empathy Level Results</b>
                     <table class="table_basic">
                         <colgroup>
