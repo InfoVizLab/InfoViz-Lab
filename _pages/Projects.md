@@ -10,7 +10,7 @@ comments: true
         <a href="{{ site.baseurl }}/01_A-Study-on-the-Guidelines-for-Data-Humanism-Visualization-That-Elicits-Empathy">
             <div class="row">
                 <div class="col-12 col-md-12 col-lg-3 pr-lg-0">
-                    <img class="" src="{{site.baseurl}}/assets/images/Thumb/01Thumb.jpg" alt="2023.06.30" />
+                    <img class="" src="{{site.baseurl}}/assets/images/data23-02.jpg" alt="2023.06.30" />
                 </div>
                 <div class="col-12 col-md-12 col-lg-9">
                     <b>공감을 이끌어내는 데이터 휴머니즘 시각화 가이드라인 연구 -동적 요소와 문체를 중심으로</b>
@@ -62,7 +62,7 @@ comments: true
         <a href="{{ site.baseurl }}/05_An-Analysis-of-the-Design-Status-of-Subscription-Blog-Type-Homepage-Based-on-Google’s-Serch-Engine-Optimization">
             <div class="row">
                 <div class="col-12 col-md-12 col-lg-3 pr-lg-0">
-                    <img class="" src="{{site.baseurl}}/assets/images/Thumb/03Thumb.jpg" alt="2023.12.30" />
+                    <img class="" src="{{site.baseurl}}/assets/images/Thumb/04Thumb.jpg" alt="2023.12.30" />
                 </div>
                 <div class="col-12 col-md-12 col-lg-9">
                     <b>구글의 검색 엔진 최적화를 바탕으로 구독 기반 블로그형 홈페이지의 디자인 현황 분석</b>
