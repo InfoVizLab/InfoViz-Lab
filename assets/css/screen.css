@@ -156,7 +156,7 @@ span.navigation {display: inline-block;font-size: 0.93rem;font-weight: 700;text-
 iframe {max-width: 100%;}
 .transpdark {background: rgba(0, 0, 0, 0.75);color: #fff;}
 .table_basic{margin: 0 auto;}
-.table_basic tr th,.table_basic tr td{border: 1px solid #aaa;}
+.table_basic tr th,.table_basic tr td{border: 1px solid #aaa;padding: 10px;}
 .table_basic tr td img{width: 100%;}
 
 @media (min-width:768px) {
