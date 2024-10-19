@@ -12,13 +12,9 @@ comments: true
             <div class="people_img">
                 <img class="" src="{{site.baseurl}}/assets/images/Minjeong.png" alt="" />
             </div>
-            <div>
+            <div class="people_txt">
                 <p>Kim, Minjung<br>Professor, Department of New Media Design, Hanyang Cyber University, Korea<br>mjganda@hycu.ac.kr</p>
             </div>
-            <!-- <div class="people_txt">
-                <b>Minjeong Kim</b>
-                <p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found.</p>
-            </div> -->
         </div>
         <div class="col-6 col-md-6 col-lg-3 pr-lg-0 mb-20px people_box">
             <div class="people_img">
