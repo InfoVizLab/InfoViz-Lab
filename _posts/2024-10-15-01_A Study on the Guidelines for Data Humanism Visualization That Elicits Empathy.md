@@ -64,6 +64,17 @@ hidden: false
                             </tr>
                         </tbody>
                     </table>
+                    <style>
+                        .table_made{width:100%;}
+                        .table_cell{display:inline-block;width:calc(100% / 2);border:1px solid #ddd;border-right:0;}
+                        .table_cell:nth-child(4n){border-right:1px;}
+                    </style>
+                    <div class="table_made">
+                        <div class="table_cell">
+                            <div class="table_title">1.Main Page</div>
+                            <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/1.png"></div>
+                        <div>
+                    </div>
                     <a href="https://docs.google.com/forms/d/e/1FAIpQLSetEU7rrfFxDau8dh2hQ-TGsATpHY6BCKhMElI-7VjGW0cFOQ/viewform?fbzx=1248273200252158058
                     "  target='_blank' class="link_btn">Research link</a>
                 </div>
