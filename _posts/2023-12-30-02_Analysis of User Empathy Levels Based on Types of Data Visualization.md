@@ -4,6 +4,7 @@ title:  "Analysis of User Empathy Levels Based on Types of Data Visualization"
 author: kim
 image: assets/images/Thumb/03Thumb.jpg
 imgthum: assets/images/Thumb/03Thumb_2.png
+imgthum_m: assets/images/Thumb/03Thumb_2_m.jpg
 description: "Analysis of User Empathy Levels Based on Types of Data Visualization"
 featured: true
 hidden: false
