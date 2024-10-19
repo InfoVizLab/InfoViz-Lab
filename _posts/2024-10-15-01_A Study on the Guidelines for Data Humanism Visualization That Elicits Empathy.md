@@ -68,7 +68,7 @@ hidden: false
                     "  target='_blank' class="link_btn">Research link</a>
                     <style>
                         .table_made{width:100%;}
-                        .table_cell{display:inline-block;width:calc(100% / 2);border:1px solid #ddd;border-right:0;}
+                        .table_cell{display:inline-block;width:calc(100% / 4);border:1px solid #ddd;border-right:none;margin-left:-5px;}
                         .table_cell:nth-child(4n){border-right:1px;}
                     </style>
                     <div class="table_made">
