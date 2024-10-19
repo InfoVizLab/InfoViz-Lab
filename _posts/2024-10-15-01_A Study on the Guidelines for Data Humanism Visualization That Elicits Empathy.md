@@ -31,7 +31,6 @@ hidden: false
                     <P>  This study analyzes the impact of design elements in data visualization on user empathy, specifically examining how dynamic elements like parallax scrolling and differences in writing style (formal vs. informal) affect users' cognitive and emotional responses. To investigate this, the study designed four types of data visualizations. The first type (A) is a static image visualization written in a formal news style, while the second type (B) uses a static image with a first-person, informal style. The third type (C) is a data visualization in a formal news style, incorporating the parallax scrolling technique, and the fourth type (D) combines an informal style with parallax scrolling. All visualizations present the same content, but each design differs based on the inclusion of dynamic elements and writing style.</p>
                     <img src="/InfoViz-Lab/assets/images/sketch.jpg">
                 </div>
-                </P>
             </div>
         </div>
         <div>
