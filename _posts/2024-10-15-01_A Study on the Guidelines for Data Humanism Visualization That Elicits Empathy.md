@@ -28,7 +28,7 @@ hidden: false
                 </div>
                 <div>
                     <b>2. Design Prototype & Survey</b>
-                    <P>  This study analyzes the impact of design elements in data visualization on user empathy, specifically examining how dynamic elements like parallax scrolling and differences in writing style (formal vs. informal) affect users' cognitive and emotional responses. To investigate this, the study designed four types of data visualizations. The first type (A) is a static image visualization written in a formal news style, while the second type (B) uses a static image with a first-person, informal style. The third type (C) is a data visualization in a formal news style, incorporating the parallax scrolling technique, and the fourth type (D) combines an informal style with parallax scrolling. All visualizations present the same content, but each design differs based on the inclusion of dynamic elements and writing style.</p>
+                    <P>This study analyzes the impact of design elements in data visualization on user empathy, specifically examining how dynamic elements like parallax scrolling and differences in writing style (formal vs. informal) affect users' cognitive and emotional responses. To investigate this, the study designed four types of data visualizations. The first type (A) is a static image visualization written in a formal news style, while the second type (B) uses a static image with a first-person, informal style. The third type (C) is a data visualization in a formal news style, incorporating the parallax scrolling technique, and the fourth type (D) combines an informal style with parallax scrolling. All visualizations present the same content, but each design differs based on the inclusion of dynamic elements and writing style.</p>
                     <table class="table_basic">
                         <colgroup>
                             <col width="25%"/>
@@ -63,6 +63,31 @@ hidden: false
                             </tr>
                         </tbody>
                     </table>
+                </div><div>
+                    <b>3. Empathy Level Results</b>
+                    <table class="table_basic">
+                        <colgroup>
+                            <col width="25%"/>
+                            <col width="25%"/>
+                            <col width="25%"/>
+                            <col width="25%"/>
+                        </colgroup>
+                        <tbody>
+                            <tr>
+                                <th>Static + News Style</th>
+                                <th>Static + First Person</th>
+                                <th>Dynamic + News Style</th>
+                                <th>Dynamic + First Person</th>
+                            </tr>
+                            <tr>
+                                <td><img src="/InfoViz-Lab/assets/images/miniimage/1.png"></td>
+                                <td><img src="/InfoViz-Lab/assets/images/miniimage/1_2.png"></td>
+                                <td><img src="/InfoViz-Lab/assets/images/miniimage/2_3.png"></td>
+                                <td><img src="/InfoViz-Lab/assets/images/miniimage/7_4.png"></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <P>This study examines how dynamic elements, such as parallax scrolling, and writing style (formal vs. informal) affect users' empathy and understanding in data visualization. Results show that using dynamic images combined with a first-person informal style captures attention and enhances theme recognition, while a news-style formal text supports more analytical comprehension. Although dynamic visuals did not significantly impact empathy levels, informal language notably increased user empathy, indicating its importance in emotional connection. The study highlights the need for careful consideration of visual and linguistic elements to improve user engagement, empathy, and information processing in data visualizations.</p>
                 </div>
             </div>
         </div>
