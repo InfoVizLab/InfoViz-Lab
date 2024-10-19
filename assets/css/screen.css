@@ -155,6 +155,8 @@ span.navigation {display: inline-block;font-size: 0.93rem;font-weight: 700;text-
 .pagination {display: block;}
 iframe {max-width: 100%;}
 .transpdark {background: rgba(0, 0, 0, 0.75);color: #fff;}
+.table_basic tr th,.table_basic tr td{border: 1px solid #aaa;}
+
 @media (min-width:768px) {
     .jumbotron.fortags {margin-bottom: -50px;margin-top: 3rem;padding: 0;height: 350px;border-radius: 0;background-image: url(../images/jumbotron.jpg);background-size: cover;}
     .jumbotron.fortags .col-md-4 {background: rgba(0, 0, 0, 0.75);color: #fff;}
