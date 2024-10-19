@@ -29,6 +29,36 @@ hidden: false
                 <div>
                     <b>2. Design Prototype & Survey</b>
                     <P>  This study analyzes the impact of design elements in data visualization on user empathy, specifically examining how dynamic elements like parallax scrolling and differences in writing style (formal vs. informal) affect users' cognitive and emotional responses. To investigate this, the study designed four types of data visualizations. The first type (A) is a static image visualization written in a formal news style, while the second type (B) uses a static image with a first-person, informal style. The third type (C) is a data visualization in a formal news style, incorporating the parallax scrolling technique, and the fourth type (D) combines an informal style with parallax scrolling. All visualizations present the same content, but each design differs based on the inclusion of dynamic elements and writing style.</p>
+                    <div>
+                        <table>
+                            <tbody>
+                                <tr>
+                                    <th>1.Main Page</th>
+                                    <th>2.Illegal Capture</th>
+                                    <th>3.Number of Dolphins Imported to Aquariums</th>
+                                    <th>4.Mortality Rate in Aquariums</th>
+                                </tr>
+                                <tr>
+                                    <td><img src="/InfoViz-Lab/assets/images/miniimage/1.png"></td>
+                                    <td><img src="/InfoViz-Lab/assets/images/miniimage/2.png"></td>
+                                    <td><img src="/InfoViz-Lab/assets/images/miniimage/3.png"></td>
+                                    <td><img src="/InfoViz-Lab/assets/images/miniimage/4.png"></td>
+                                </tr>
+                                <tr>
+                                    <th>5.Status of Release into the Wild</th>
+                                    <th>6.Challenges of Release</th>
+                                    <th>7.Introduction to Sanctuaries</th>
+                                    <th>8.Conclusion</th>
+                                </tr>
+                                <tr>
+                                    <td><img src="/InfoViz-Lab/assets/images/miniimage/5.png"></td>
+                                    <td><img src="/InfoViz-Lab/assets/images/miniimage/7.png"></td>
+                                    <td><img src="/InfoViz-Lab/assets/images/miniimage/8.png"></td>
+                                    <td><img src="/InfoViz-Lab/assets/images/miniimage/11.png"></td>
+                                </tr>
+                            </tbody>
+                        <table>
+                    </div>
                     <img src="/InfoViz-Lab/assets/images/sketch.jpg">
                 </div>
             </div>
