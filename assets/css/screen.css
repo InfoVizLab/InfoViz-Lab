@@ -190,6 +190,7 @@ a.link_btn{background-color: #00ab6b;padding: 10px;display: block;margin: 20px a
 }
 @media (max-width: 768px) {
     .share {margin-top: 30px;}
+    .mainheading h1.posttitle{font-size: 1.5em;}
 }
 .card .img-fluid {width: 100%;}
 .sticky-top-80 {top: 80px;}
