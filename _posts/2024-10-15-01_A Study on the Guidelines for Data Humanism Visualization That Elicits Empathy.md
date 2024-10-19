@@ -21,7 +21,7 @@ hidden: false
             </div>
             <div style="border:1px solid #ddd; padding:1rem;margin:1rem 0;border-radius:10px;">
                 <h5>Research Process</h5>
-                <div>
+                <div style="border-bottom:1px soild #ddd;">
                     <b>1. Data Selection and Visualization Strategy</b>
                     <P>In the first study conducted in 2023, the use of suicide data was criticized for excessively triggering emotional responses. Consequently, this research deliberately excluded human data and focused on social and environmental issues. The research team selected the theme of animal abuse and the controversy surrounding zoo closures, specifically concentrating on dolphin-related data. The study collected data on dolphin capture, life in aquariums, causes of death, and conservation efforts, which were incorporated into a storytelling structure for a responsive website. The website emphasizes the life of dolphins and encourages public actions for their protection, utilizing graphs and diagrams to visually convey key information.</p>
                     <img src="/InfoViz-Lab/assets/images/sketch.jpg">
