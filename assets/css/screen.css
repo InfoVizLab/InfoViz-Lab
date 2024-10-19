@@ -215,7 +215,7 @@ a.link_btn{background-color: #00ab6b;padding: 10px;display: block;margin: 20px a
 .article-post div h4{margin-bottom: 0.5rem;}
 .people_box{display: grid;grid-column-gap: 10px; margin-bottom: 15px;}
 .people_box .people_img{grid-column:1;text-align: center;background-color: #d5e2c0;}
-.people_box .people_txt{grid-column:2;text-align: center;background: #000;color: #fff;margin-bottom: 0;border-radius: 0 0 15px 15px;}
+.people_box .people_txt{text-align: center;background: #000;color: #fff;margin-bottom: 0;border-radius: 0 0 15px 15px;}
 .people_box .people_txt p{font-size: 0.75rem;font-weight: 500;color: #fff;}
 .main-ban{padding-bottom: 45px;text-align: center;}
 .main-ban img{width: 100%;}
