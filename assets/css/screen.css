@@ -88,7 +88,7 @@ span.post-name a, span.post-read-more a:hover {color: rgba(0, 0, 0, .8);}
 .article-post {font-size: 1.1rem;line-height: 1.84;color: rgba(0, 0, 0, .8);}
 blockquote {border-left: 4px solid #00ab6b;padding: 0 20px;font-style: italic;color: rgba(0, 0, 0, .5);}
 .article-post p, .article-post blockquote {margin: 0;}
-.featured-image {display: block;/*margin-bottom: 1.5rem;*/}
+.featured-image {display: block;width: 100%;/*margin-bottom: 1.5rem;*/}
 .share {text-align: center;}
 .share p {margin-bottom: 10px;font-size: 0.95rem;}
 .share ul li {display: inline-block;margin-bottom: 9px;}
