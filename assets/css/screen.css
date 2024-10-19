@@ -7,10 +7,10 @@ License: https://www.wowthemes.net/freebies-license/
 @import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 @media screen and (min-width:1500px) {
-    html { font-size:18px;} /* Increase the font size on higher resolutions */
-    .container {max-width:80%;}
+html { font-size:18px;} /* Increase the font size on higher resolutions */
+.container {max-width:80%;}
 }
-html, body{height: 100%;}
+html, body{height: 100%;font-family: Roboto;}
 .container{min-height: 100%;}
 .mainheading {/* padding: 1rem 0rem; */padding: 15px;}
 a {color: #00ab6b;transition: all 0.2s;}
@@ -85,7 +85,7 @@ span.post-name a, span.post-read-more a:hover {color: rgba(0, 0, 0, .8);}
 .mainheading h1.posttitle {font-weight: 700;margin-bottom: 1rem;}
 .footer {border-top: 1px solid rgba(0, 0, 0, .05) !important;padding-top: 15px;padding-bottom: 12px;font-size: 0.8rem;color: #fff;margin-top: 50px;/* margin-bottom: 62px; */position: relative;background: #013c9d;}
 .link-dark {color: rgba(0, 0, 0, .8);}
-.article-post {font-family: Merriweather;font-size: 1.1rem;line-height: 1.84;color: rgba(0, 0, 0, .8);}
+.article-post {font-size: 1.1rem;line-height: 1.84;color: rgba(0, 0, 0, .8);}
 blockquote {border-left: 4px solid #00ab6b;padding: 0 20px;font-style: italic;color: rgba(0, 0, 0, .5);}
 .article-post p, .article-post blockquote {margin: 0;}
 .featured-image {display: block;/*margin-bottom: 1.5rem;*/}
