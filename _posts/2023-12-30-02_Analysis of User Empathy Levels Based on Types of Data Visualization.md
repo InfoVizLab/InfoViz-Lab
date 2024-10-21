@@ -13,6 +13,9 @@ hidden: false
 데이터 시각화 유형에 따른 수용자 공감 수준 분석
 
 <div class="row justify-content-between" style="">
+    <div class="top_title">
+        <b>Abstract</b>
+    </div>
     <div class="col-md-12">
         <div style="margin-bottom:1rem;">
             <div style="border:1px solid #ddd; padding:1rem;margin:1rem 0;border-radius:10px;">
