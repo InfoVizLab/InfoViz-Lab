@@ -85,7 +85,7 @@ span.post-name a, span.post-read-more a:hover {color: rgba(0, 0, 0, .8);}
 .mainheading h1.posttitle {font-weight: 700;margin-bottom: 1rem;}
 .footer {border-top: 1px solid rgba(0, 0, 0, .05) !important;padding-top: 15px;padding-bottom: 12px;font-size: 0.8rem;color: #fff;margin-top: 50px;/* margin-bottom: 62px; */position: relative;background: #013c9d;}
 .link-dark {color: rgba(0, 0, 0, .8);}
-.article-post {font-size: 1.1rem;line-height: 1.84;color: rgba(0, 0, 0, .8);}
+.article-post {font-size: 1.1rem;line-height: 1.84;color: rgba(0, 0, 0, .8);margin-top:20px;}
 blockquote {border-left: 4px solid #00ab6b;padding: 0 20px;font-style: italic;color: rgba(0, 0, 0, .5);}
 .article-post p, .article-post blockquote {margin: 0;}
 .featured-image {display: block;width: 100%;/*margin-bottom: 1.5rem;*/}
