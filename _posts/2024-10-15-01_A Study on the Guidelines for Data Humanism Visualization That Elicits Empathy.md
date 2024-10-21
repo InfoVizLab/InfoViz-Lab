@@ -14,6 +14,9 @@ hidden: false
 공감을 이끌어내는 데이터 휴머니즘 시각화 가이드라인 연구 -동적 요소와 문체를 중심으로-
 
 <div class="row justify-content-between" style="">
+    <div class="top_title">
+        <b>Abstract</b>
+    </div>
     <div class="col-md-12">
         <div style="margin-bottom:1rem;">
             <div style="border:1px solid #ddd; padding:1rem;margin:1rem 0;border-radius:10px;">
