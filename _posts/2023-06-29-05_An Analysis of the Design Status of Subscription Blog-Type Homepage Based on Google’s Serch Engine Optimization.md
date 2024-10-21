@@ -13,6 +13,9 @@ hidden: false
 구독 서비스 기반의 이메일 뉴스레터의 현황 분석 연구 -감성 경험 서비스와 콘텐츠의 관계를 중심으로- Top 5%
 
 <div class="row justify-content-between" style="">
+    <div class="top_title">
+        <b>Abstract</b>
+    </div>
     <div class="col-md-12">
         <div style="margin-bottom:1rem;">
             <div style="border:1px solid #ddd; padding:1rem;margin:1rem 0;border-radius:10px;">
