@@ -88,7 +88,7 @@ blockquote {border-left: 4px solid #00ab6b;padding: 0 20px;font-style: italic;co
 .share ul li i.fa {border: 1px solid #ddd;width: 30px;height: 30px;line-height: 30px;text-align: center;border-radius: 50%;}
 .svgIcon {vertical-align: middle;}
 .sticky-top-offset {top: 100px;}
-.top_title{padding:0 15px;}
+.top_title{padding:0 15px;margin-top:20px;}
 
 .share, .share a {color: rgba(0, 0, 0, .44);fill: rgba(0, 0, 0, .44);}
 .graybg {background-color: #fafafa;padding: 40px 0 46px;position: relative;}
