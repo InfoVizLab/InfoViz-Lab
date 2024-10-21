@@ -22,12 +22,18 @@ hidden: false
             </div>
         </div>
         <div>
-            <h5 style="margin-bottom:0.5rem;">The final thesis</h5><!--최종논문--->
-            <iframe src="https://docs.google.com/gview?url=https://infovizlab.github.io{{site.baseurl}}/pdf_file/Empathy level_light.pdf&embedded=true" title="example" width="50%" height="1000" frameborder="0"></iframe>
-            <h5 style="margin-bottom:0;margin-top:1rem;">The Distinguished Paper Award. 2023. Vol.8 No.4</h5><!--우수상--->
-            <iframe src="https://docs.google.com/gview?url=https://infovizlab.github.io{{site.baseurl}}/pdf_file/Design Research 2023(Vol.8 No.４).pdf&embedded=true" title="example" width="50%" height="1000" frameborder="0"></iframe>
+            <div>
+                <h5 style="margin-bottom:0.5rem;">The final thesis</h5><!--최종논문--->
+                <iframe src="https://docs.google.com/gview?url=https://infovizlab.github.io{{site.baseurl}}/pdf_file/Empathy level_light.pdf&embedded=true" title="example" width="50%" height="1000" frameborder="0"></iframe>
+            </div>
+            <div>
+                <h5 style="margin-bottom:0;margin-top:1rem;">The Distinguished Paper Award. 2023. Vol.8 No.4</h5><!--우수상--->
+                <iframe src="https://docs.google.com/gview?url=https://infovizlab.github.io{{site.baseurl}}/pdf_file/Design Research 2023(Vol.8 No.４).pdf&embedded=true" title="example" width="50%" height="1000" frameborder="0"></iframe>
+            </div>
+            <div>
             <h5 style="margin-bottom:0;margin-top:1rem;">The Research</h5><!--설문--->
             <iframe src="https://docs.google.com/gview?url=https://infovizlab.github.io{{site.baseurl}}/pdf_file/Empathy level_Research.pdf&embedded=true" title="example" width="50%" height="1000" frameborder="0"></iframe>
+            </div>
         </div>
     </div>
 </div>
