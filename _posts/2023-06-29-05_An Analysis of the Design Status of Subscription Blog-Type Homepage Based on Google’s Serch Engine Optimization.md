@@ -28,7 +28,7 @@ Zuora’s Subscription Economy Index reveals a 435% growth in the subscription e
         </div>
         <div>
             <h5 style="margin-bottom:0.5rem;">The final thesis</h5>
-            <iframe src="https://docs.google.com/gview?url=https://infovizlab.github.io{{site.baseurl}}/pdf_file/Warning Pictogram.pdf&embedded=true" title="example" width="100%" height="1000" frameborder="0"></iframe>
+            <iframe src="https://docs.google.com/gview?url=https://infovizlab.github.io{{site.baseurl}}/pdf_file/Research on the Status of Email Newsletter Based on Subscription Service.pdf&embedded=true" title="example" width="100%" height="1000" frameborder="0"></iframe>
         </div>
     </div>
 </div>
