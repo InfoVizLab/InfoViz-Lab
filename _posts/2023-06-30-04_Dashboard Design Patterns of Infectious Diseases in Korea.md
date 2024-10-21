@@ -9,7 +9,7 @@ description: "Dashboard Design Patterns of Infectious Diseases in Korea"
 featured: true
 hidden: false
 ---
-
+##### info
 ##### Absrtact
 국내 감염병 현황 대시보드 디자인 패턴 분석
 
