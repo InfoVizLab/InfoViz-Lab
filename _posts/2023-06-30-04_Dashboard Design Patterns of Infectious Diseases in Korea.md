@@ -25,7 +25,7 @@ hidden: false
         </div>
         <div>
             <h5 style="margin-bottom:0.5rem;">The final thesis</h5>
-            <a href="pdf_file/Analysis of Dashboard.pdf" download="Analysis of Dashboard.pdf">다운로드</a>
+            <iframe src="https://docs.google.com/gview?url=https://infovizlab.github.io{{site.baseurl}}/pdf_file/Analysis of Dashboard.pdf&embedded=true" title="example" width="100%" height="1000" frameborder="0"></iframe>
         </div>
     </div>
 </div>
