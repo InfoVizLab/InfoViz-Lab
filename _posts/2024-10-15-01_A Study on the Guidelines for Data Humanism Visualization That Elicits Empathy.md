@@ -70,7 +70,7 @@ hidden: false
                     <style>
                         .table_made{width:100%;text-align:center;}
                         .table_cell{display:inline-block;width:calc(100% / 2 - 4px);border:1px solid #ddd;}
-                        .table_p{text-align:center;padding:10px;font-size:20px;}
+                        .table_p{text-align:center;padding:10px;font-size:18px;line-height:20px;min-height:60px;}
                         .table_img{padding:10px;}
                     </style>
                     <div class="table_made table_mo">
