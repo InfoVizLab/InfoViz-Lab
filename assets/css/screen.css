@@ -140,6 +140,7 @@ span.navigation {display: inline-block;font-size: 0.93rem;font-weight: 700;text-
 iframe {max-width: 100%;}
 .transpdark {background: rgba(0, 0, 0, 0.75);color: #fff;}
 .table_basic{margin: 0 auto;}
+.table_mo{display:none;}
 .table_basic tr th,.table_basic tr td{border: 1px solid #aaa;padding: 10px;text-align: center;}
 .table_basic tr td img{width: 100%;margin:20px auto;}
 a.link_btn{background-color: #00ab6b;padding: 10px;display: block;margin: 20px auto;max-width: 150px;color: #fff;text-align: center;border-radius: 10px;}
@@ -203,6 +204,8 @@ a.link_btn{background-color: #00ab6b;padding: 10px;display: block;margin: 20px a
 @media (max-width:991px) {
 .featured-box-img-cover {height: auto; width: 100%;}
 .card-body.project{padding: 1.25rem;}
+.table_basic{display:none;}
+.table_mo{display:block;}
 }
 @media (min-width:992px) {
 .navbar-expand-lg .navbar-nav .nav-link {padding-right: 0.8rem;padding-left: 0.8rem;}
