@@ -69,35 +69,35 @@ hidden: false
                     </table>
                     <div class="table_made table_mo">
                         <div class="table_cell">
-                            <div class="table_title">1.Main Page</div>
+                            <p class="table_title">1.Main Page</p>
                             <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/1.png"></div>
                         </div>
                         <div class="table_cell">
-                            <div class="table_title">2.Illegal Capture</div>
+                            <p class="table_title">2.Illegal Capture</p>
                             <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/2.png"></div>
                         </div>
                         <div class="table_cell">
-                            <div class="table_title">3.Number of Dolphins Imported to Aquariums</div>
+                            <p class="table_title">3.Number of Dolphins Imported to Aquariums</p>
                             <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/3.png"></div>
                         </div>
                         <div class="table_cell">
-                            <div class="table_title">4.Mortality Rate in Aquariums</div>
+                            <p class="table_title">4.Mortality Rate in Aquariums</p>
                             <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/4.png"></div>
                         </div>
                         <div class="table_cell">
-                            <div class="table_title">5.Status of Release into the Wild</div>
+                            <p class="table_title">5.Status of Release into the Wild</p>
                             <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/5.png"></div>
                         </div>
                         <div class="table_cell">
-                            <div class="table_title">6.Challenges of Release</div>
+                            <p class="table_title">6.Challenges of Release</p>
                             <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/7.png"></div>
                         </div>
                         <div class="table_cell">
-                            <div class="table_title">7.Introduction to Sanctuaries</div>
+                            <p class="table_title">7.Introduction to Sanctuaries</p>
                             <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/8.png"></div>
                         </div>
                         <div class="table_cell">
-                            <div class="table_title">8.Conclusion</div>
+                            <p class="table_title">8.Conclusion</p>
                             <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/11.png"></div>
                         </div>
                     </div>
