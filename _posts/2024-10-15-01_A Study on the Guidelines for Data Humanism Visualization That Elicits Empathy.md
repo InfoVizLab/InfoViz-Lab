@@ -80,31 +80,31 @@ hidden: false
                             <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/1.png"></div>
                         </div>
                         <div class="table_cell">
-                            <div class="table_title">1.Main Page</div>
+                            <div class="table_title">2.Illegal Capture</div>
                             <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/2.png"></div>
                         </div>
                         <div class="table_cell">
-                            <div class="table_title">1.Main Page</div>
+                            <div class="table_title">3.Number of Dolphins Imported to Aquariums</div>
                             <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/3.png"></div>
                         </div>
                         <div class="table_cell">
-                            <div class="table_title">1.Main Page</div>
+                            <div class="table_title">4.Mortality Rate in Aquariums</div>
                             <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/4.png"></div>
                         </div>
                         <div class="table_cell">
-                            <div class="table_title">1.Main Page</div>
+                            <div class="table_title">5.Status of Release into the Wild</div>
                             <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/5.png"></div>
                         </div>
                         <div class="table_cell">
-                            <div class="table_title">1.Main Page</div>
+                            <div class="table_title">6.Challenges of Release</div>
                             <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/7.png"></div>
                         </div>
                         <div class="table_cell">
-                            <div class="table_title">1.Main Page</div>
+                            <div class="table_title">7.Introduction to Sanctuaries</div>
                             <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/8.png"></div>
                         </div>
                         <div class="table_cell">
-                            <div class="table_title">1.Main Page</div>
+                            <div class="table_title">8.Conclusion</div>
                             <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/11.png"></div>
                         </div>
                     </div>
