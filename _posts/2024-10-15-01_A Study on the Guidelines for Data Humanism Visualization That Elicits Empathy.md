@@ -67,6 +67,12 @@ hidden: false
                             </tr>
                         </tbody>
                     </table>
+                    <div class="table_mo">
+                        <div>
+                            <div>1.Main Page</div>
+                            <div><img src="/InfoViz-Lab/assets/images/miniimage/1.png"></div>
+                        </div>
+                    </div>
                     <a href="https://docs.google.com/forms/d/e/1FAIpQLSetEU7rrfFxDau8dh2hQ-TGsATpHY6BCKhMElI-7VjGW0cFOQ/viewform?fbzx=1248273200252158058
                     "  target='_blank' class="link_btn">Research link</a>
                     <style>
