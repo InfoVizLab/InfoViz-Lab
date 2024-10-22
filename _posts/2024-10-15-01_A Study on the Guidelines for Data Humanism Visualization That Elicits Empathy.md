@@ -69,8 +69,8 @@ hidden: false
                     </table>
                     <style>
                         .table_made{width:100%;}
-                        .table_cell{display:inline-block;width:calc(100% / 4);border:1px solid #ddd;margin-left:-5px;}
-                        .table_cell:nth-child(4n){}
+                        .table_cell{display:inline-block;width:calc(100% / 2);border-top:1px solid #ddd;border-bottom:1px solid #ddd;border-lefe:1px solid #ddd;margin-left:-5px;}
+                        .table_cell:nth-child(2n){border-right:1px solid #ddd;}
                         .table_title{text-align:center;padding:10px;}
                         .table_img{padding:10px;}
                     </style>
