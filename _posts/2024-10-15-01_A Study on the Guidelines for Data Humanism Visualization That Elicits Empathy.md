@@ -128,6 +128,24 @@ hidden: false
                             </tr>
                         </tbody>
                     </table>
+                     <div class="table_made table_mo">
+                        <div class="table_cell">
+                            <p class="table_title">Static + News Style</p>
+                            <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/1.png"></div>
+                        </div>
+                         <div class="table_cell">
+                            <p class="table_title">Static + First Person</p>
+                            <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/1_2.png"></div>
+                        </div>
+                         <div class="table_cell">
+                            <p class="table_title">Dynamic + News Style</p>
+                            <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/2_3.png"></div>
+                        </div>
+                         <div class="table_cell">
+                            <p class="table_title">Dynamic + First Person</p>
+                            <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/7_4.png"></div>
+                        </div>
+                     </div>
                     <P>This study examines how dynamic elements, such as parallax scrolling, and writing style (formal vs. informal) affect users' empathy and understanding in data visualization. Results show that using dynamic images combined with a first-person informal style captures attention and enhances theme recognition, while a news-style formal text supports more analytical comprehension. Although dynamic visuals did not significantly impact empathy levels, informal language notably increased user empathy, indicating its importance in emotional connection. The study highlights the need for careful consideration of visual and linguistic elements to improve user engagement, empathy, and information processing in data visualizations.</p>
                 </div>
             </div>
