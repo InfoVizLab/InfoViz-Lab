@@ -81,31 +81,31 @@ hidden: false
                         </div>
                         <div class="table_cell">
                             <div class="table_title">1.Main Page</div>
-                            <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/1.png"></div>
+                            <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/2.png"></div>
                         </div>
                         <div class="table_cell">
                             <div class="table_title">1.Main Page</div>
-                            <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/1.png"></div>
+                            <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/3.png"></div>
                         </div>
                         <div class="table_cell">
                             <div class="table_title">1.Main Page</div>
-                            <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/1.png"></div>
+                            <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/4.png"></div>
                         </div>
                         <div class="table_cell">
                             <div class="table_title">1.Main Page</div>
-                            <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/1.png"></div>
+                            <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/5.png"></div>
                         </div>
                         <div class="table_cell">
                             <div class="table_title">1.Main Page</div>
-                            <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/1.png"></div>
+                            <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/7.png"></div>
                         </div>
                         <div class="table_cell">
                             <div class="table_title">1.Main Page</div>
-                            <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/1.png"></div>
+                            <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/8.png"></div>
                         </div>
                         <div class="table_cell">
                             <div class="table_title">1.Main Page</div>
-                            <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/1.png"></div>
+                            <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/11.png"></div>
                         </div>
                     </div>
                     <a href="https://docs.google.com/forms/d/e/1FAIpQLSetEU7rrfFxDau8dh2hQ-TGsATpHY6BCKhMElI-7VjGW0cFOQ/viewform?fbzx=1248273200252158058
