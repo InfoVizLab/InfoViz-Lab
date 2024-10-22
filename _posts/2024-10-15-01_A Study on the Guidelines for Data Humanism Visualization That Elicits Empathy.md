@@ -68,9 +68,8 @@ hidden: false
                         </tbody>
                     </table>
                     <style>
-                        .table_made{width:100%;}
-                        .table_cell{display:inline-block;width:calc(100% / 2 - 2px);border-top:1px solid #ddd;border-bottom:1px solid #ddd;border-left:1px solid #ddd;}
-                        .table_cell:nth-child(2n){border-right:1px solid #ddd;}
+                        .table_made{width:100%;text-align:center;}
+                        .table_cell{display:inline-block;width:calc(100% / 2 - 4px);border:1px solid #ddd;}
                         .table_title{text-align:center;padding:10px;}
                         .table_img{padding:10px;}
                     </style>
