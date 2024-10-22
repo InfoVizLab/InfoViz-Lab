@@ -24,8 +24,10 @@ hidden: false
             </div>
         </div>
         <div>
-            <h5 style="margin-bottom:0.5rem;">The final thesis</h5>
-            <iframe src="https://docs.google.com/gview?url=https://infovizlab.github.io{{site.baseurl}}/pdf_file/Analysis of Dashboard.pdf&embedded=true" title="example" width="100%" height="1000" frameborder="0"></iframe>
+            <div class="thesis_box">
+                <h5 style="margin-bottom:0.5rem;">The final thesis</h5>
+                <iframe src="https://docs.google.com/gview?url=https://infovizlab.github.io{{site.baseurl}}/pdf_file/Analysis of Dashboard.pdf&embedded=true" title="example" width="100%" height="1000" frameborder="0"></iframe>
+            </div>
         </div>
     </div>
 </div>
