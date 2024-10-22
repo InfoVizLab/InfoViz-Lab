@@ -206,6 +206,10 @@ a.link_btn{background-color: #00ab6b;padding: 10px;display: block;margin: 20px a
 .card-body.project{padding: 1.25rem;}
 .table_basic{display:none;}
 .table_mo{display:block;}
+.table_made{width:100%;text-align:center;margin:20px auto;}
+.table_cell{display:inline-block;width:calc(100% / 2 - 4px);border:1px solid #ddd;margin-bottom:5px;}
+.table_p{text-align:center;padding:10px;font-size:18px;line-height:20px;min-height:60px;}
+.table_img{padding:10px;}
 }
 @media (min-width:992px) {
 .navbar-expand-lg .navbar-nav .nav-link {padding-right: 0.8rem;padding-left: 0.8rem;}
@@ -224,6 +228,7 @@ a.link_btn{background-color: #00ab6b;padding: 10px;display: block;margin: 20px a
 @media (max-width: 576px){
 .people_box{display: block;}
 .people_box .people_img{text-align: center;}
+.table_cell{display:inline-block;width:100%;}
 }
 @media (min-width:576px) {
 .card-columns.listfeaturedtag {-webkit-column-count: 2;-moz-column-count: 2;column-count: 2;}
