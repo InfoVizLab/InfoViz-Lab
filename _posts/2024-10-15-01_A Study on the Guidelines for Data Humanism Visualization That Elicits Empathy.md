@@ -67,14 +67,6 @@ hidden: false
                             </tr>
                         </tbody>
                     </table>
-                    <div class="table_mo">
-                        <div>
-                            <div>1.Main Page</div>
-                            <div><img src="/InfoViz-Lab/assets/images/miniimage/1.png"></div>
-                        </div>
-                    </div>
-                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSetEU7rrfFxDau8dh2hQ-TGsATpHY6BCKhMElI-7VjGW0cFOQ/viewform?fbzx=1248273200252158058
-                    "  target='_blank' class="link_btn">Research link</a>
                     <style>
                         .table_made{width:100%;}
                         .table_cell{display:inline-block;width:calc(100% / 4);border:1px solid #ddd;margin-left:-5px;}
@@ -82,7 +74,7 @@ hidden: false
                         .table_title{text-align:center;padding:10px;}
                         .table_img{padding:10px;}
                     </style>
-                    <!-- <div class="table_made">
+                    <div class="table_made table_mo">
                         <div class="table_cell">
                             <div class="table_title">1.Main Page</div>
                             <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/1.png"></div>
@@ -115,7 +107,9 @@ hidden: false
                             <div class="table_title">1.Main Page</div>
                             <div class="table_img"><img src="/InfoViz-Lab/assets/images/miniimage/1.png"></div>
                         </div>
-                    </div> -->
+                    </div>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSetEU7rrfFxDau8dh2hQ-TGsATpHY6BCKhMElI-7VjGW0cFOQ/viewform?fbzx=1248273200252158058
+                    "  target='_blank' class="link_btn">Research link</a>
                 </div>
                 <div style="margin:20px auto;">
                     <b>3. Empathy Level Results</b>
