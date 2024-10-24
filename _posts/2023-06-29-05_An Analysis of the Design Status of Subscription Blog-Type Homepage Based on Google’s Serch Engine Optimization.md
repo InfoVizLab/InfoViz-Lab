@@ -10,7 +10,7 @@ featured: true
 hidden: false
 ---
 
-구독 서비스 기반의 이메일 뉴스레터의 현황 분석 연구 -감성 경험 서비스와 콘텐츠의 관계를 중심으로- Top 5%
+구독 서비스 기반의 이메일 뉴스레터의 현황 분석 연구 -감성 경험 서비스와 콘텐츠의 관계를 중심으로-
 
 <div class="row justify-content-between" style="">
     <div class="top_title">
