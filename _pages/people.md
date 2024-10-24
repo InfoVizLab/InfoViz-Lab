@@ -21,7 +21,7 @@ comments: true
                 <img class="" src="{{site.baseurl}}/assets/images/Sangim.png" alt="" />
             </div>
             <div class="people_txt">
-                <p>Lee, Sangim</p>
+                <p>Lee, Sangim<br>Researcher / Graphic Designer </p>
             </div>
         </div>
         <div class="col-6 col-md-6 col-lg-3 pr-lg-0 mb-20px people_box">
@@ -29,7 +29,7 @@ comments: true
                 <img class="" src="{{site.baseurl}}/assets/images/Hokyeong.png" alt="" />
             </div>
             <div class="people_txt">
-                <p>Lee, Hokyeong</p>
+                <p>Lee, Hokyeong<br>Researcher / Web Designer</p>
             </div>
         </div>
         <div class="col-6 col-md-6 col-lg-3 pr-lg-0 mb-20px people_box">
@@ -37,7 +37,7 @@ comments: true
                 <img class="" src="{{site.baseurl}}/assets/images/Jaeseon.png" alt="" />
             </div>
             <div class="people_txt">
-                <p>Go, Jaeseon</p>
+                <p>Go, Jaeseon<br>Researcher / Graphic Designer </p>
             </div>
         </div>       
     </div>
