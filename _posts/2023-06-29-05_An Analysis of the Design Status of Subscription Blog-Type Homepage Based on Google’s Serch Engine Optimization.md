@@ -21,9 +21,7 @@ hidden: false
             <div style="border:1px solid #ddd; padding:1rem;margin:1rem 0;border-radius:10px;">
                 <b>Research on the Status of Email Newsletter Based on Subscription Service</b>
                 <p>In 1978, ARPANET user Gary Thuerk sent the first spam email, marking the start of email marketing. With the global spread of the Internet and mobile market growth, email usage surged, leading to an increase in spam. While methods to manage spam fatigue have evolved, the Korea Internet & Security Agency’s “Spam Receipt Survey” shows a decline in spam growth. The traditional spam model is being replaced by subscription-based business models.
-            </br>
-Zuora’s Subscription Economy Index reveals a 435% growth in the subscription economy over the past nine years, driven by the MZ generation's preference for curated content. This study analyzes how email newsletters have evolved into differentiated content, focusing on the relationship between emotional experience services and content. By examining domestic and international cases, it highlights that successful subscription email newsletters should cater to subscribers' emotional preferences, transforming them into valuable content rather than spam. The findings offer insights for further research on subscription-based email newsletters.
-</p>
+                Zuora’s Subscription Economy Index reveals a 435% growth in the subscription economy over the past nine years, driven by the MZ generation's preference for curated content. This study analyzes how email newsletters have evolved into differentiated content, focusing on the relationship between emotional experience services and content. By examining domestic and international cases, it highlights that successful subscription email newsletters should cater to subscribers' emotional preferences, transforming them into valuable content rather than spam. The findings offer insights for further research on subscription-based email newsletters.</p>
             </div>
         </div>
         <div>
