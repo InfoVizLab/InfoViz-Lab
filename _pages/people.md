@@ -26,8 +26,8 @@ comments: true
             <div class="people_txt">
                 <p>Lee, Sangim</p>
                 <p>Researcher / Graphic Designer </p>
-                <p></p>
-                <p></p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
             </div>
         </div>
         <div class="col-6 col-md-6 col-lg-3 pr-lg-0 mb-20px people_box">
@@ -37,8 +37,8 @@ comments: true
             <div class="people_txt">
                 <p>Lee, Hokyeon</p>
                 <p>Researcher / Web Designer</p>
-                <p></p>
-                <p></p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
             </div>
         </div>
         <div class="col-6 col-md-6 col-lg-3 pr-lg-0 mb-20px people_box">
@@ -48,8 +48,8 @@ comments: true
             <div class="people_txt">
                 <p>Go, Jaeseon</p>
                 <p>Researcher / Graphic Designer </p>                
-                <p></p>
-                <p></p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
             </div>
         </div>       
     </div>
