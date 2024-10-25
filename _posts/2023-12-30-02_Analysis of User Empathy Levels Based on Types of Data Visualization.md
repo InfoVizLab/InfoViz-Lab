@@ -28,17 +28,17 @@ hidden: false
             <div class="thesis_box">
                 <h5 style="margin-bottom:0.5rem;">The final thesis</h5><!--최종논문--->
                 <iframe src="/InfoViz-Lab/pdf_file/Empathy_level_light.pdf" title="example" width="100%" height="1000" frameborder="0"></iframe>
-                <a href="/InfoViz-Lab/pdf_file/Empathy_level_light.pdf" target="_blank" class="file_btn">파일 보기</a>
+                <a href="/InfoViz-Lab/pdf_file/Empathy_level_light.pdf" target="_blank" class="file_btn">Download</a>
             </div>
             <div class="thesis_box">
                 <h5 style="margin-bottom:0;margin-top:1rem;">The Distinguished Paper Award. 2023. Vol.8 No.4</h5><!--우수상--->
                 <iframe src="/InfoViz-Lab/pdf_file/Design_Research_2023(Vol.8No.４).pdf" title="example" width="100%" height="1000" frameborder="0"></iframe>
-                <a href="/InfoViz-Lab/pdf_file/Design_Research_2023(Vol.8No.４).pdf" target="_blank" class="file_btn">파일 보기</a>
+                <a href="/InfoViz-Lab/pdf_file/Design_Research_2023(Vol.8No.４).pdf" target="_blank" class="file_btn">Download</a>
             </div>
             <div class="thesis_box">
                 <h5 style="margin-bottom:0;margin-top:1rem;">The Research</h5><!--설문--->
                 <iframe src="/InfoViz-Lab/pdf_file/Empathy_level_Research.pdf" title="example" width="100%" height="1000" frameborder="0"></iframe>
-                <a href="/InfoViz-Lab/pdf_file/Empathy_level_Research.pdf" target="_blank" class="file_btn">파일 보기</a>
+                <a href="/InfoViz-Lab/pdf_file/Empathy_level_Research.pdf" target="_blank" class="file_btn">Download</a>
             </div>
         </div>
         
