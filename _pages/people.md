@@ -13,7 +13,10 @@ comments: true
                 <img class="" src="{{site.baseurl}}/assets/images/Minjeong.png" alt="" />
             </div>
             <div class="people_txt">
-                <p>Kim, Minjung<br>Professor, Department of New Media Design, Hanyang Cyber University, Korea<br>mjganda@hycu.ac.kr</p>
+                <p>Kim, Minjung</p>
+                <p>Professor, Department of New Media Design,</p>
+                <p>Hanyang Cyber University, Korea</p>
+                <p>mjganda@hycu.ac.kr</p>
             </div>
         </div>
         <div class="col-6 col-md-6 col-lg-3 pr-lg-0 mb-20px people_box">
@@ -21,7 +24,10 @@ comments: true
                 <img class="" src="{{site.baseurl}}/assets/images/Sangim.png" alt="" />
             </div>
             <div class="people_txt">
-                <p>Lee, Sangim<br>Researcher / Graphic Designer </p>
+                <p>Lee, Sangim</p>
+                <p>Researcher / Graphic Designer </p>
+                <p></p>
+                <p></p>
             </div>
         </div>
         <div class="col-6 col-md-6 col-lg-3 pr-lg-0 mb-20px people_box">
@@ -29,7 +35,10 @@ comments: true
                 <img class="" src="{{site.baseurl}}/assets/images/Hokyeong.png" alt="" />
             </div>
             <div class="people_txt">
-                <p>Lee, Hokyeong<br>Researcher / Web Designer</p>
+                <p>Lee, Hokyeon</p>
+                <p>Researcher / Web Designer</p>
+                <p></p>
+                <p></p>
             </div>
         </div>
         <div class="col-6 col-md-6 col-lg-3 pr-lg-0 mb-20px people_box">
@@ -37,7 +46,10 @@ comments: true
                 <img class="" src="{{site.baseurl}}/assets/images/Jaeseon.png" alt="" />
             </div>
             <div class="people_txt">
-                <p>Go, Jaeseon<br>Researcher / Graphic Designer </p>
+                <p>Go, Jaeseon</p>
+                <p>Researcher / Graphic Designer </p>                
+                <p></p>
+                <p></p>
             </div>
         </div>       
     </div>
