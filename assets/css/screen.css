@@ -232,6 +232,7 @@ a.link_btn{background-color: #00ab6b;padding: 10px;display: block;margin: 20px a
 .people_box{display: block;}
 .people_box .people_img{text-align: center;}
 .table_cell{display:inline-block;width:100%;}
+.col-sm-12 {-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;}
 }
 @media (min-width:576px) {
 .card-columns.listfeaturedtag {-webkit-column-count: 2;-moz-column-count: 2;column-count: 2;}
