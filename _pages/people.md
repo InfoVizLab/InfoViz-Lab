@@ -8,7 +8,7 @@ comments: true
 <div class="justify-content-between">
 <p>Those who participated in the project</p>
     <div class="row">
-        <div class="col-6 col-md-6 col-sm-1 col-lg-3 pr-lg-0 mb-20px people_box">
+        <div class="col-6 col-md-6 col-sm-12 col-lg-3 pr-lg-0 mb-20px people_box">
             <div class="people_img">
                 <img class="" src="{{site.baseurl}}/assets/images/Minjeong.png" alt="" />
             </div>
@@ -19,7 +19,7 @@ comments: true
                 <p>mjganda@hycu.ac.kr</p>
             </div>
         </div>
-        <div class="col-6 col-md-6 col-sm-1 col-lg-3 pr-lg-0 mb-20px people_box">
+        <div class="col-6 col-md-6 col-sm-12 col-lg-3 pr-lg-0 mb-20px people_box">
             <div class="people_img">
                 <img class="" src="{{site.baseurl}}/assets/images/Sangim.png" alt="" />
             </div>
@@ -30,7 +30,7 @@ comments: true
                 <p>&nbsp;</p>
             </div>
         </div>
-        <div class="col-6 col-md-6 col-sm-1 col-lg-3 pr-lg-0 mb-20px people_box">
+        <div class="col-6 col-md-6 col-sm-12 col-lg-3 pr-lg-0 mb-20px people_box">
             <div class="people_img">
                 <img class="" src="{{site.baseurl}}/assets/images/Hokyeong.png" alt="" />
             </div>
@@ -41,7 +41,7 @@ comments: true
                 <p>&nbsp;</p>
             </div>
         </div>
-        <div class="col-6 col-md-6 col-sm-1 col-lg-3 pr-lg-0 mb-20px people_box">
+        <div class="col-6 col-md-6 col-sm-12 col-lg-3 pr-lg-0 mb-20px people_box">
             <div class="people_img">
                 <img class="" src="{{site.baseurl}}/assets/images/Jaeseon.png" alt="" />
             </div>
